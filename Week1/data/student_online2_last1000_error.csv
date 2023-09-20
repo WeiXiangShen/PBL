@@ -1,0 +1,1001 @@
+id,Internet Type,Network Type,Class Duration,Self Lms,Device,Adaptivity Level
+1,Wifi,4G,3月6日,No,Tab,Moderate
+2,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+3,Wifi,4G,1月3日,No,Mobile,Moderate
+4,Mobile Data,4G,1月3日,No,Mobile,Moderate
+5,Mobile Data,3G,0,No,Mobile,Low
+6,Mobile Data,3G,1月3日,No,Mobile,Low
+7,Wifi,4G,0,No,Mobile,Low
+8,Wifi,4G,1月3日,No,Mobile,Moderate
+9,Wifi,4G,1月3日,No,Mobile,Low
+10,Mobile Data,3G,1月3日,No,Mobile,Moderate
+11,Wifi,4G,1月3日,No,Mobile,Low
+12,Wifi,4G,1月3日,No,Mobile,Low
+13,Mobile Data,3G,1月3日,No,Mobile,Moderate
+14,Wifi,4G,1月3日,No,Mobile,Low
+15,Mobile Data,3G,1月3日,No,Mobile,Moderate
+16,Wifi,4G,1月3日,No,Mobile,Low
+17,Mobile Data,4G,0,No,Computer,Low
+18,Wifi,4G,1月3日,No,Mobile,Low
+19,Wifi,4G,1月3日,No,Mobile,Low
+20,Wifi,4G,3月6日,No,Mobile,Moderate
+21,Wifi,4G,1月3日,No,Mobile,High
+22,Mobile Data,4G,0,No,Mobile,Low
+23,Mobile Data,3G,3月6日,Yes,Mobile,Low
+24,Mobile Data,3G,1月3日,No,Mobile,Moderate
+25,Wifi,4G,3月6日,No,Mobile,Moderate
+26,Mobile Data,4G,1月3日,No,Mobile,Moderate
+27,Mobile Data,4G,1月3日,No,Mobile,Moderate
+28,Wifi,4G,3月6日,No,Computer,Moderate
+29,Mobile Data,4G,1月3日,No,Mobile,Moderate
+30,Wifi,4G,3月6日,No,Mobile,Moderate
+31,Mobile Data,3G,1月3日,No,Mobile,Moderate
+32,Mobile Data,4G,1月3日,No,Mobile,Low
+33,Mobile Data,4G,1月3日,No,Mobile,Moderate
+34,Wifi,4G,1月3日,No,Mobile,Moderate
+35,Mobile Data,3G,1月3日,No,Mobile,Low
+36,Wifi,3G,3月6日,Yes,Mobile,Moderate
+37,Mobile Data,4G,1月3日,No,Mobile,Moderate
+38,Mobile Data,3G,1月3日,No,Mobile,High
+39,Mobile Data,4G,1月3日,No,Mobile,Low
+40,Wifi,3G,1月3日,No,Mobile,Low
+41,Wifi,4G,3月6日,Yes,,Moderate
+42,Wifi,4G,1月3日,Yes,Mobile,Moderate
+43,Mobile Data,3G,0,No,Mobile,Low
+44,Mobile Data,4G,1月3日,No,Mobile,Moderate
+45,Wifi,GG,3月6日,Yes,Computer,Low
+46,Wifi,4G,1月3日,No,Computer,Moderate
+47,Mobile Data,4G,1月3日,No,Mobile,Moderate
+48,Mobile Data,3G,1月3日,No,Mobile,Moderate
+49,Mobile Data,4G,1月3日,No,Mobile,Moderate
+50,Wifi,3G,3月6日,Yes,Computer,Low
+51,Wifi,4G,1月3日,No,Mobile,Low
+52,Mobile Data,4G,1月3日,No,Mobile,Moderate
+53,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+54,Mobile Data,4G,1月3日,No,Mobile,Moderate
+55,Mobile Data,4G,1月3日,No,Mobile,Low
+56,Mobile Data,4G,1月3日,No,Mobile,Moderate
+57,Mobile Data,4G,0,No,Mobile,Low
+58,Mobile Data,3G,1月3日,No,Mobile,Low
+59,Mobile Data,3G,0,No,Mobile,Low
+60,Mobile Data,3G,0,No,Mobile,Low
+61,Wifi,4G,3月6日,No,Mobile,Moderate
+62,Mobile Data,4G,0,No,Mobile,Low
+63,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+64,Mobile Data,4G,1月3日,No,Mobile,Moderate
+65,Wifi,4G,1月3日,No,Mobile,Low
+66,Mobile Data,4G,1月3日,No,Mobile,High
+67,Mobile Data,3G,1月3日,No,Mobile,Moderate
+68,Mobile Data,3G,0,No,Mobile,Low
+69,Wifi,4G,1月3日,No,Mobile,Low
+70,Mobile Data,4G,1月3日,No,Mobile,Moderate
+71,Mobile Data,3G,1月3日,Yes,Mobile,Low
+72,Mobile Data,4G,0,No,Mobile,Low
+73,Mobile Data,4G,0,No,Mobile,Low
+74,Mobile Data,3G,1月3日,No,Mobile,Low
+75,Mobile Data,4G,1月3日,No,Mobile,Moderate
+76,Mobile Data,2G,1月3日,No,Mobile,Low
+77,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+78,Mobile Data,4G,0,No,Mobile,Low
+79,Mobile Data,4G,3月6日,No,Mobile,Moderate
+80,Mobile Data,4G,1月3日,No,Mobile,Moderate
+81,Mobile Data,3G,1月3日,No,Mobile,Low
+82,Mobile Data,4G,3月6日,No,Mobile,Moderate
+83,Wifi,4G,1月3日,No,Computer,Moderate
+84,Mobile Data,3G,0,No,Mobile,Low
+85,Mobile Data,GG,1月3日,No,Mobile,Moderate
+86,Mobile Data,3G,1月3日,No,Mobile,Moderate
+87,Mobile Data,4G,1月3日,No,Mobile,High
+88,Wifi,4G,1月3日,Yes,Mobile,Moderate
+89,Wifi,4G,1月3日,No,Mobile,Moderate
+90,Mobile Data,4G,0,No,Mobile,Low
+91,Mobile Data,4G,1月3日,No,Mobile,Moderate
+92,Wifi,4G,3月6日,Yes,Computer,Moderate
+93,Wifi,3G,3月6日,Yes,Computer,Moderate
+94,Mobile Data,3G,1月3日,Yes,Mobile,Low
+95,Mobile Data,4G,1月3日,No,Mobile,Moderate
+96,Wifi,4G,1月3日,No,Computer,Moderate
+97,Mobile Data,4G,1月3日,No,Mobile,Moderate
+98,Mobile Data,2G,1月3日,No,Mobile,Low
+99,Wifi,4G,1月3日,Yes,Mobile,Moderate
+100,Wifi,4G,1月3日,No,Mobile,Low
+101,Wifi,4G,0,No,Mobile,Low
+102,Wifi,4G,1月3日,No,Computer,Moderate
+103,Mobile Data,3G,0,No,Mobile,Low
+104,Mobile Data,4G,1月3日,No,Mobile,Moderate
+105,Wifi,4G,1月3日,No,Mobile,Moderate
+106,Wifi,4G,1月3日,No,Computer,Moderate
+107,Mobile Data,3G,1月3日,No,Mobile,Moderate
+108,Wifi,4G,1月3日,No,Computer,Moderate
+109,Wifi,4G,3月6日,No,Tab,Moderate
+110,Wifi,3G,1月3日,Yes,Mobile,High
+111,Mobile Data,4G,0,No,Mobile,Low
+112,Wifi,4G,1月3日,No,Mobile,Low
+113,Mobile Data,3G,0,No,Mobile,Low
+114,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+115,Wifi,4G,3月6日,No,Mobile,Moderate
+116,Wifi,4G,3月6日,Yes,Computer,Moderate
+117,Wifi,4G,0,No,Computer,Low
+118,Wifi,4G,3月6日,Yes,Computer,Low
+119,Mobile Data,3G,1月3日,No,Mobile,Moderate
+120,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+121,Wifi,4G,3月6日,No,Computer,Moderate
+122,Wifi,4G,1月3日,No,Mobile,Low
+123,Mobile Data,4G,1月3日,No,Mobile,Moderate
+124,Mobile Data,3G,1月3日,No,Mobile,Moderate
+125,Wifi,4G,1月3日,Yes,Computer,Moderate
+126,Mobile Data,GG,1月3日,No,Mobile,Low
+127,Mobile Data,4G,1月3日,No,Mobile,Low
+128,Wifi,4G,3月6日,No,Mobile,Moderate
+129,Wifi,4G,1月3日,No,Mobile,Low
+130,Wifi,4G,1月3日,Yes,Computer,High
+131,Wifi,3G,3月6日,Yes,Mobile,Moderate
+132,Mobile Data,3G,1月3日,No,Mobile,Low
+133,Mobile Data,3G,3月6日,Yes,Mobile,High
+134,Mobile Data,4G,1月3日,No,Mobile,Low
+135,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+136,Wifi,4G,3月6日,No,Computer,Low
+137,Mobile Data,3G,0,No,Mobile,Low
+138,Mobile Data,4G,1月3日,No,Mobile,Moderate
+139,Mobile Data,4G,1月3日,No,Mobile,Moderate
+140,Mobile Data,4G,1月3日,No,Mobile,Moderate
+141,Mobile Data,3G,1月3日,No,Mobile,Low
+142,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+143,Mobile Data,3G,1月3日,No,Mobile,Moderate
+144,Mobile Data,3G,1月3日,No,Mobile,Moderate
+145,Mobile Data,3G,1月3日,No,Mobile,Low
+146,Wifi,4G,3月6日,No,Computer,Moderate
+147,Wifi,3G,3月6日,No,Computer,Moderate
+148,Wifi,4G,0,No,Mobile,Low
+149,Wifi,4G,3月6日,No,Mobile,Low
+150,Mobile Data,2G,1月3日,No,Mobile,Low
+151,Mobile Data,4G,1月3日,No,Mobile,Moderate
+152,Wifi,4G,1月3日,No,Mobile,Low
+153,Mobile Data,4G,1月3日,No,Mobile,High
+154,Wifi,4G,1月3日,No,Mobile,Moderate
+155,Wifi,4G,3月6日,No,Computer,Low
+156,Mobile Data,3G,1月3日,No,Computer,Low
+157,Mobile Data,4G,1月3日,No,Mobile,Low
+158,Wifi,4G,1月3日,No,Computer,High
+159,Mobile Data,4G,1月3日,No,Mobile,Moderate
+160,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+161,Wifi,GG,1月3日,Yes,Mobile,Low
+162,Mobile Data,3G,3月6日,Yes,Mobile,High
+163,Mobile Data,4G,1月3日,No,Mobile,Moderate
+164,Mobile Data,3G,0,No,Mobile,Low
+165,Mobile Data,4G,0,No,Mobile,Low
+166,Mobile Data,4G,1月3日,No,Mobile,Moderate
+167,Mobile Data,3G,1月3日,Yes,Mobile,Low
+168,Mobile Data,4G,1月3日,No,Mobile,High
+169,Mobile Data,4G,1月3日,No,Mobile,Moderate
+170,Mobile Data,4G,1月3日,Yes,Mobile,Low
+171,Wifi,3G,1月3日,Yes,Computer,Moderate
+172,Wifi,4G,1月3日,No,Mobile,Low
+173,Wifi,4G,1月3日,No,Mobile,Low
+174,Wifi,4G,1月3日,Yes,Computer,High
+175,Mobile Data,4G,1月3日,No,Mobile,Moderate
+176,Wifi,4G,3月6日,No,Computer,Low
+177,Wifi,3G,1月3日,No,Mobile,Moderate
+178,Mobile Data,4G,1月3日,Yes,Mobile,Low
+179,Mobile Data,3G,1月3日,No,Mobile,Low
+180,Mobile Data,3G,0,No,Mobile,Low
+181,Wifi,4G,1月3日,No,Computer,Moderate
+182,Wifi,4G,1月3日,No,Mobile,Low
+183,Wifi,4G,1月3日,No,Mobile,Moderate
+184,Wifi,4G,3月6日,No,Computer,Moderate
+185,Wifi,4G,1月3日,No,Mobile,Low
+186,Mobile Data,3G,1月3日,No,Mobile,Low
+187,Mobile Data,3G,1月3日,No,Mobile,Moderate
+188,Mobile Data,4G,1月3日,No,Mobile,Low
+189,Mobile Data,4G,1月3日,No,Mobile,Moderate
+190,Wifi,4G,3月6日,No,Tab,Moderate
+191,Wifi,4G,1月3日,No,Mobile,Low
+192,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+193,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+194,Mobile Data,3G,0,No,Mobile,Low
+195,Mobile Data,4G,0,No,Mobile,Low
+196,Wifi,3G,1月3日,Yes,Mobile,Low
+197,Mobile Data,4G,1月3日,No,Mobile,Low
+198,Mobile Data,4G,1月3日,No,Mobile,Moderate
+199,Mobile Data,3G,1月3日,No,Mobile,Moderate
+200,Wifi,3G,1月3日,No,Mobile,Low
+201,Mobile Data,4G,0,No,Mobile,Low
+202,Mobile Data,GG,1月3日,No,Mobile,Low
+203,Mobile Data,3G,1月3日,No,Mobile,Low
+204,Wifi,4G,1月3日,Yes,Mobile,Moderate
+205,Mobile Data,3G,1月3日,No,Mobile,Low
+206,Wifi,4G,1月3日,No,Mobile,High
+207,Wifi,4G,3月6日,No,Computer,Moderate
+208,Mobile Data,3G,1月3日,No,Mobile,Low
+209,Wifi,4G,1月3日,No,Mobile,Low
+210,Wifi,3G,3月6日,Yes,Mobile,Low
+211,Mobile Data,2G,1月3日,No,Mobile,Low
+212,Mobile Data,4G,1月3日,No,Mobile,High
+213,Mobile Data,3G,1月3日,No,Mobile,Low
+214,Wifi,4G,3月6日,No,Computer,Moderate
+215,Mobile Data,4G,1月3日,No,Mobile,Moderate
+216,Mobile Data,4G,1月3日,No,Mobile,Moderate
+217,Mobile Data,4G,1月3日,No,Mobile,Moderate
+218,Mobile Data,3G,0,No,Mobile,Low
+219,Wifi,3G,3月6日,No,Mobile,Low
+220,Mobile Data,3G,0,No,Mobile,Low
+221,Wifi,3G,3月6日,Yes,Computer,Moderate
+222,Mobile Data,4G,3月6日,No,Mobile,Moderate
+223,Mobile Data,3G,1月3日,No,Mobile,Moderate
+224,Mobile Data,3G,1月3日,No,Mobile,Moderate
+225,Wifi,4G,0,No,Mobile,Low
+226,Mobile Data,3G,1月3日,No,Mobile,Moderate
+227,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+228,Mobile Data,4G,1月3日,No,Mobile,Low
+229,Mobile Data,3G,1月3日,No,Mobile,Moderate
+230,Mobile Data,3G,1月3日,No,Mobile,Moderate
+231,Wifi,3G,1月3日,No,Mobile,Moderate
+232,Wifi,4G,1月3日,Yes,Mobile,Moderate
+233,Wifi,4G,0,No,Mobile,Low
+234,Wifi,4G,1月3日,No,Mobile,High
+235,Wifi,4G,3月6日,Yes,Computer,Moderate
+236,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+237,Wifi,4G,3月6日,No,Computer,Moderate
+238,Mobile Data,4G,0,No,Mobile,Low
+239,Wifi,2G,3月6日,No,Mobile,Moderate
+240,Wifi,4G,1月3日,No,Mobile,Low
+241,Mobile Data,4G,1月3日,No,Mobile,Low
+242,Mobile Data,4G,1月3日,No,Mobile,Moderate
+243,Wifi,4G,1月3日,No,Mobile,Moderate
+244,Wifi,4G,3月6日,No,Mobile,Moderate
+245,Mobile Data,3G,0,No,Mobile,Low
+246,Wifi,4G,1月3日,No,Mobile,Moderate
+247,Wifi,3G,3月6日,Yes,Computer,Moderate
+248,Mobile Data,3G,1月3日,No,Mobile,Low
+249,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+250,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+251,Wifi,4G,3月6日,No,Computer,Moderate
+252,Wifi,4G,1月3日,No,Mobile,Low
+253,Wifi,4G,1月3日,No,Mobile,Low
+254,Mobile Data,3G,1月3日,No,Mobile,Low
+255,Wifi,3G,1月3日,No,Mobile,Moderate
+256,Mobile Data,3G,1月3日,No,Mobile,Moderate
+257,Wifi,4G,1月3日,No,Mobile,Moderate
+258,Mobile Data,4G,1月3日,No,Mobile,Moderate
+259,Mobile Data,3G,1月3日,No,Mobile,Low
+260,Wifi,4G,1月3日,No,Mobile,High
+261,Mobile Data,3G,1月3日,No,Mobile,Low
+262,Mobile Data,3G,3月6日,Yes,Mobile,Low
+263,Wifi,4G,3月6日,No,Mobile,Moderate
+264,Mobile Data,4G,1月3日,No,Mobile,Low
+265,Wifi,4G,1月3日,No,Mobile,Low
+266,Wifi,4G,1月3日,No,Mobile,Moderate
+267,Wifi,4G,1月3日,No,Mobile,Moderate
+268,Wifi,4G,1月3日,Yes,Mobile,Low
+269,Wifi,4G,1月3日,No,Mobile,Moderate
+270,Mobile Data,4G,1月3日,Yes,Mobile,High
+271,Mobile Data,4G,1月3日,No,Mobile,Moderate
+272,Wifi,4G,3月6日,No,Mobile,Moderate
+273,Mobile Data,4G,1月3日,No,Mobile,Moderate
+274,Mobile Data,3G,1月3日,No,Mobile,Moderate
+275,Mobile Data,2G,1月3日,No,Mobile,Low
+276,Mobile Data,4G,1月3日,No,Mobile,Moderate
+277,Mobile Data,3G,1月3日,No,Mobile,Low
+278,Mobile Data,2G,1月3日,No,Mobile,Low
+279,Mobile Data,4G,1月3日,Yes,Mobile,Low
+280,Mobile Data,3G,1月3日,No,Mobile,Low
+281,Mobile Data,4G,0,No,Mobile,Low
+282,Mobile Data,4G,0,No,Mobile,Low
+283,Wifi,4G,1月3日,No,Mobile,Low
+284,Wifi,4G,1月3日,Yes,Computer,High
+285,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+286,Mobile Data,4G,0,No,Mobile,Low
+287,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+288,Wifi,4G,0,No,Mobile,Low
+289,Wifi,4G,0,No,Mobile,Low
+290,Mobile Data,4G,1月3日,No,Mobile,Moderate
+291,Mobile Data,4G,1月3日,No,Mobile,Moderate
+292,Wifi,4G,1月3日,No,Mobile,Moderate
+293,Mobile Data,4G,1月3日,No,Mobile,Moderate
+294,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+295,Mobile Data,4G,1月3日,Yes,Mobile,Low
+296,Mobile Data,4G,1月3日,No,Mobile,Moderate
+297,Wifi,4G,3月6日,No,Tab,High
+298,Mobile Data,4G,1月3日,No,Mobile,Moderate
+299,Mobile Data,4G,1月3日,No,Mobile,Moderate
+300,Wifi,4G,1月3日,No,Mobile,Moderate
+301,Wifi,4G,3月6日,No,Computer,High
+302,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+303,Wifi,4G,1月3日,No,Mobile,Low
+304,Mobile Data,4G,1月3日,No,Mobile,Moderate
+305,Mobile Data,4G,3月6日,No,Mobile,Moderate
+306,Wifi,4G,1月3日,No,Computer,Low
+307,Wifi,4G,1月3日,Yes,Tab,Moderate
+308,Mobile Data,3G,1月3日,No,Mobile,Moderate
+309,Wifi,4G,3月6日,No,Tab,Moderate
+310,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+311,Mobile Data,4G,1月3日,No,Mobile,Moderate
+312,Wifi,4G,1月3日,No,Mobile,Low
+313,Mobile Data,3G,1月3日,No,Mobile,Moderate
+314,Wifi,4G,1月3日,No,Mobile,Moderate
+315,Wifi,4G,1月3日,No,Mobile,Moderate
+316,Mobile Data,3G,1月3日,No,Mobile,Low
+317,Wifi,4G,3月6日,No,Tab,Moderate
+318,Wifi,4G,0,No,Mobile,Low
+319,Wifi,4G,1月3日,No,Mobile,Low
+320,Mobile Data,3G,1月3日,No,Mobile,Low
+321,Mobile Data,3G,1月3日,No,Mobile,Moderate
+322,Mobile Data,4G,0,No,Mobile,Low
+323,Mobile Data,4G,1月3日,No,Mobile,Moderate
+324,Mobile Data,3G,1月3日,No,Mobile,Low
+325,Mobile Data,3G,3月6日,Yes,Mobile,Low
+326,Mobile Data,3G,1月3日,No,Mobile,Moderate
+327,Mobile Data,4G,1月3日,No,Mobile,Moderate
+328,Wifi,4G,1月3日,No,Mobile,Moderate
+329,Mobile Data,4G,1月3日,No,Mobile,Moderate
+330,Mobile Data,3G,0,No,Mobile,Low
+331,Mobile Data,3G,1月3日,No,Mobile,Moderate
+332,Wifi,3G,1月3日,No,Mobile,Low
+333,Wifi,4G,3月6日,No,Mobile,Low
+334,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+335,Wifi,4G,3月6日,No,Mobile,Moderate
+336,Wifi,4G,1月3日,Yes,Mobile,Moderate
+337,Mobile Data,4G,1月3日,No,Mobile,Low
+338,Wifi,4G,1月3日,No,Mobile,Low
+339,Mobile Data,4G,1月3日,No,Mobile,Moderate
+340,Mobile Data,4G,0,No,Mobile,Low
+341,Mobile Data,4G,1月3日,No,Mobile,Moderate
+342,Mobile Data,4G,1月3日,No,Mobile,Moderate
+343,Mobile Data,4G,1月3日,No,Mobile,Moderate
+344,Wifi,4G,1月3日,No,Mobile,Moderate
+345,Wifi,3G,3月6日,Yes,Computer,Low
+346,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+347,Mobile Data,4G,0,No,Mobile,Low
+348,Wifi,4G,1月3日,No,Mobile,Moderate
+349,Mobile Data,3G,1月3日,No,Mobile,Low
+350,Mobile Data,4G,3月6日,No,Mobile,Moderate
+351,Mobile Data,4G,1月3日,No,Mobile,Moderate
+352,Mobile Data,4G,0,No,Mobile,Low
+353,Wifi,4G,3月6日,No,Mobile,Moderate
+354,Wifi,4G,3月6日,Yes,Computer,Moderate
+355,Mobile Data,4G,1月3日,No,Mobile,Moderate
+356,Wifi,4G,0,No,Mobile,Low
+357,Mobile Data,4G,1月3日,No,Mobile,Moderate
+358,Mobile Data,3G,1月3日,No,Mobile,Moderate
+359,Mobile Data,3G,1月3日,No,Mobile,Moderate
+360,Mobile Data,4G,1月3日,No,Mobile,Moderate
+361,Mobile Data,3G,1月3日,No,Mobile,Moderate
+362,Mobile Data,3G,1月3日,No,Mobile,High
+363,Wifi,4G,3月6日,No,Computer,Low
+364,Mobile Data,4G,1月3日,No,Mobile,Moderate
+365,Mobile Data,3G,1月3日,Yes,Mobile,Low
+366,Wifi,4G,3月6日,No,Computer,High
+367,Mobile Data,3G,1月3日,No,Mobile,Low
+368,Mobile Data,3G,1月3日,No,Mobile,Moderate
+369,Wifi,3G,1月3日,No,Mobile,Moderate
+370,Wifi,4G,1月3日,No,Mobile,Low
+371,Wifi,4G,1月3日,No,Mobile,Moderate
+372,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+373,Wifi,4G,1月3日,Yes,Mobile,Low
+374,Wifi,3G,1月3日,Yes,Mobile,Moderate
+375,Mobile Data,4G,1月3日,No,Mobile,Moderate
+376,Mobile Data,3G,0,No,Mobile,Low
+377,Mobile Data,3G,0,No,Mobile,Low
+378,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+379,Mobile Data,4G,1月3日,No,Mobile,Moderate
+380,Wifi,4G,1月3日,No,Mobile,Low
+381,Wifi,4G,0,No,Mobile,Low
+382,Mobile Data,4G,0,No,Mobile,Moderate
+383,Mobile Data,3G,1月3日,No,Mobile,Low
+384,Wifi,4G,3月6日,Yes,Computer,Moderate
+385,Wifi,3G,1月3日,Yes,Mobile,Moderate
+386,Mobile Data,3G,1月3日,No,Mobile,Moderate
+387,Mobile Data,3G,1月3日,No,Mobile,Moderate
+388,Wifi,4G,1月3日,No,Mobile,Moderate
+389,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+390,Mobile Data,3G,0,No,Mobile,Low
+391,Wifi,4G,3月6日,No,Mobile,High
+392,Mobile Data,4G,1月3日,No,Mobile,Moderate
+393,Wifi,4G,1月3日,No,Mobile,Low
+394,Mobile Data,4G,1月3日,No,Mobile,Low
+395,Wifi,4G,1月3日,No,Computer,Low
+396,Mobile Data,3G,1月3日,No,Mobile,Low
+397,Wifi,4G,0,No,Mobile,Low
+398,Wifi,4G,3月6日,No,Mobile,Low
+399,Wifi,4G,1月3日,Yes,Computer,High
+400,Wifi,4G,0,No,Mobile,Low
+401,Wifi,4G,1月3日,No,Mobile,Moderate
+402,Wifi,3G,1月3日,Yes,Mobile,Moderate
+403,Wifi,4G,0,No,Computer,Low
+404,Wifi,4G,1月3日,No,Mobile,Moderate
+405,Mobile Data,4G,1月3日,No,Mobile,Low
+406,Mobile Data,4G,1月3日,No,Mobile,Low
+407,Wifi,4G,1月3日,Yes,Computer,High
+408,Mobile Data,4G,1月3日,No,Mobile,Moderate
+409,Mobile Data,4G,1月3日,No,Mobile,Moderate
+410,Wifi,4G,1月3日,No,Mobile,High
+411,Wifi,4G,1月3日,Yes,Computer,High
+412,Wifi,4G,1月3日,Yes,Computer,High
+413,Wifi,4G,3月6日,No,Tab,Moderate
+414,Wifi,4G,1月3日,No,Mobile,Low
+415,Mobile Data,4G,1月3日,No,Mobile,Moderate
+416,Wifi,4G,0,No,Computer,Low
+417,Mobile Data,3G,1月3日,No,Mobile,Low
+418,Wifi,3G,1月3日,Yes,Mobile,Moderate
+419,Wifi,3G,1月3日,Yes,Computer,Moderate
+420,Wifi,4G,1月3日,Yes,Mobile,Low
+421,Mobile Data,3G,1月3日,No,Mobile,Moderate
+422,Mobile Data,3G,1月3日,No,Mobile,Moderate
+423,Wifi,4G,1月3日,No,Computer,Moderate
+424,Mobile Data,3G,1月3日,No,Mobile,Low
+425,Wifi,4G,1月3日,No,Mobile,Low
+426,Mobile Data,4G,0,No,Mobile,Low
+427,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+428,Wifi,4G,1月3日,Yes,Computer,High
+429,Wifi,4G,1月3日,No,Computer,Low
+430,Mobile Data,3G,1月3日,No,Mobile,Low
+431,Mobile Data,4G,3月6日,No,Mobile,Moderate
+432,Mobile Data,4G,0,No,Computer,Low
+433,Mobile Data,4G,1月3日,No,Mobile,High
+434,Mobile Data,4G,1月3日,No,Mobile,Low
+435,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+436,Wifi,4G,1月3日,No,Mobile,Low
+437,Mobile Data,4G,0,No,Mobile,Low
+438,Wifi,4G,3月6日,No,Tab,Moderate
+439,Wifi,4G,1月3日,No,Mobile,Low
+440,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+441,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+442,Wifi,4G,1月3日,No,Mobile,Moderate
+443,Wifi,4G,1月3日,No,Mobile,Low
+444,Mobile Data,4G,1月3日,No,Mobile,Moderate
+445,Mobile Data,3G,1月3日,No,Mobile,Low
+446,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+447,Mobile Data,4G,1月3日,No,Mobile,Low
+448,Wifi,3G,1月3日,Yes,Mobile,High
+449,Wifi,4G,3月6日,No,Mobile,Low
+450,Mobile Data,3G,1月3日,No,Mobile,Moderate
+451,Mobile Data,4G,3月6日,No,Mobile,Moderate
+452,Wifi,4G,3月6日,No,Computer,High
+453,Mobile Data,4G,0,No,Mobile,Low
+454,Mobile Data,3G,0,No,Mobile,Low
+455,Mobile Data,4G,3月6日,No,Mobile,Moderate
+456,Mobile Data,4G,0,No,Mobile,Low
+457,Mobile Data,4G,1月3日,No,Mobile,Moderate
+458,Wifi,4G,1月3日,No,Mobile,Low
+459,Mobile Data,3G,1月3日,No,Mobile,Low
+460,Wifi,3G,3月6日,No,Computer,Moderate
+461,Mobile Data,4G,1月3日,No,Mobile,Moderate
+462,Mobile Data,4G,1月3日,Yes,Mobile,High
+463,Mobile Data,3G,3月6日,Yes,Mobile,High
+464,Mobile Data,4G,1月3日,Yes,Mobile,High
+465,Wifi,3G,1月3日,No,Mobile,High
+466,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+467,Mobile Data,3G,1月3日,Yes,Mobile,Low
+468,Mobile Data,3G,0,No,Mobile,Low
+469,Wifi,4G,1月3日,No,Mobile,Moderate
+470,Wifi,3G,1月3日,Yes,Mobile,Low
+471,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+472,Mobile Data,3G,1月3日,Yes,Mobile,Low
+473,Mobile Data,3G,0,No,Mobile,Low
+474,Wifi,4G,0,No,Mobile,Moderate
+475,Mobile Data,3G,1月3日,No,Mobile,Moderate
+476,Wifi,4G,1月3日,No,Mobile,Low
+477,Mobile Data,4G,1月3日,Yes,Mobile,High
+478,Mobile Data,4G,1月3日,No,Mobile,Moderate
+479,Mobile Data,3G,1月3日,No,Mobile,Low
+480,Wifi,4G,1月3日,Yes,Mobile,Moderate
+481,Wifi,3G,1月3日,No,Mobile,Moderate
+482,Mobile Data,4G,1月3日,No,Mobile,Low
+483,Mobile Data,3G,1月3日,No,Mobile,Low
+484,Mobile Data,4G,1月3日,No,Mobile,Low
+485,Mobile Data,4G,1月3日,No,Mobile,Moderate
+486,Wifi,4G,1月3日,No,Mobile,Moderate
+487,Wifi,4G,3月6日,No,Computer,Moderate
+488,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+489,Wifi,4G,1月3日,No,Mobile,Low
+490,Wifi,3G,1月3日,No,Mobile,Moderate
+491,Wifi,4G,1月3日,Yes,Computer,High
+492,Mobile Data,3G,1月3日,No,Mobile,Moderate
+493,Mobile Data,3G,1月3日,No,Mobile,Low
+494,Wifi,4G,3月6日,No,Computer,High
+495,Mobile Data,4G,0,No,Mobile,Low
+496,Wifi,4G,1月3日,No,Mobile,Low
+497,Mobile Data,3G,0,No,Mobile,Low
+498,Wifi,3G,1月3日,Yes,Mobile,Moderate
+499,Wifi,4G,1月3日,No,Computer,Moderate
+500,Wifi,4G,3月6日,Yes,Computer,Moderate
+501,Wifi,4G,1月3日,No,Mobile,Low
+502,Wifi,4G,1月3日,No,Mobile,Low
+503,Wifi,4G,1月3日,No,Mobile,Low
+504,Wifi,3G,3月6日,Yes,Computer,Low
+505,Mobile Data,4G,0,No,Mobile,Low
+506,Mobile Data,2G,1月3日,No,Mobile,Low
+507,Wifi,4G,1月3日,No,Mobile,High
+508,Mobile Data,4G,0,No,Mobile,Moderate
+509,Wifi,4G,1月3日,No,Mobile,Low
+510,Mobile Data,4G,1月3日,No,Mobile,Moderate
+511,Wifi,4G,1月3日,No,Mobile,Low
+512,Wifi,4G,3月6日,No,Tab,Moderate
+513,Wifi,4G,1月3日,No,Mobile,Low
+514,Mobile Data,4G,1月3日,No,Mobile,Moderate
+515,Mobile Data,2G,1月3日,No,Mobile,Low
+516,Mobile Data,3G,1月3日,No,Mobile,Moderate
+517,Mobile Data,4G,0,No,Mobile,Low
+518,Wifi,4G,1月3日,Yes,Computer,High
+519,Wifi,4G,1月3日,No,Mobile,Low
+520,Mobile Data,4G,1月3日,No,Mobile,Moderate
+521,Mobile Data,3G,1月3日,No,Mobile,Low
+522,Mobile Data,3G,1月3日,No,Mobile,Low
+523,Mobile Data,3G,0,No,Mobile,Low
+524,Wifi,3G,3月6日,Yes,Mobile,Moderate
+525,Mobile Data,4G,1月3日,No,Mobile,Low
+526,Wifi,4G,3月6日,No,Tab,Moderate
+527,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+528,Wifi,4G,1月3日,No,Computer,Moderate
+529,Wifi,4G,3月6日,No,Mobile,Moderate
+530,Mobile Data,3G,1月3日,No,Mobile,Moderate
+531,Wifi,4G,3月6日,No,Mobile,Moderate
+532,Mobile Data,4G,1月3日,No,Mobile,Low
+533,Mobile Data,4G,0,No,Mobile,Low
+534,Mobile Data,3G,1月3日,No,Mobile,Moderate
+535,Wifi,4G,1月3日,No,Mobile,Moderate
+536,Wifi,3G,1月3日,Yes,Computer,Moderate
+537,Mobile Data,4G,1月3日,No,Mobile,Moderate
+538,Mobile Data,3G,1月3日,No,Mobile,Low
+539,Wifi,4G,0,No,Mobile,Low
+540,Mobile Data,4G,1月3日,No,Mobile,Moderate
+541,Wifi,4G,1月3日,No,Mobile,Moderate
+542,Mobile Data,4G,1月3日,No,Mobile,Moderate
+543,Mobile Data,4G,1月3日,No,Mobile,Moderate
+544,Wifi,4G,1月3日,No,Mobile,Moderate
+545,Mobile Data,4G,1月3日,No,Mobile,Moderate
+546,Mobile Data,4G,1月3日,No,Mobile,Moderate
+547,Mobile Data,3G,1月3日,No,Mobile,High
+548,Wifi,4G,1月3日,No,Mobile,Moderate
+549,Wifi,4G,1月3日,No,Mobile,Low
+550,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+551,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+552,Mobile Data,4G,1月3日,No,Mobile,Low
+553,Wifi,4G,1月3日,No,Mobile,Moderate
+554,Mobile Data,4G,1月3日,No,Mobile,Moderate
+555,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+556,Mobile Data,3G,1月3日,No,Mobile,Moderate
+557,Mobile Data,4G,1月3日,No,Mobile,Low
+558,Wifi,2G,3月6日,No,Mobile,Moderate
+559,Mobile Data,3G,0,No,Mobile,Low
+560,Mobile Data,4G,1月3日,No,Mobile,Moderate
+561,Wifi,4G,3月6日,No,Mobile,High
+562,Wifi,4G,1月3日,No,Mobile,Moderate
+563,Mobile Data,4G,1月3日,No,Mobile,Moderate
+564,Mobile Data,3G,1月3日,No,Mobile,Low
+565,Mobile Data,3G,1月3日,No,Mobile,Low
+566,Wifi,3G,1月3日,No,Computer,Moderate
+567,Wifi,4G,1月3日,No,Mobile,Low
+568,Mobile Data,4G,1月3日,No,Mobile,Moderate
+569,Mobile Data,3G,1月3日,No,Mobile,Moderate
+570,Mobile Data,4G,3月6日,No,Mobile,Moderate
+571,Mobile Data,3G,1月3日,No,Mobile,Moderate
+572,Mobile Data,3G,1月3日,No,Mobile,Moderate
+573,Wifi,4G,1月3日,Yes,Computer,High
+574,Mobile Data,4G,1月3日,No,Mobile,Low
+575,Mobile Data,3G,0,No,Mobile,Low
+576,Mobile Data,4G,0,No,Mobile,Low
+577,Mobile Data,3G,1月3日,No,Mobile,Low
+578,Wifi,4G,1月3日,No,Mobile,Low
+579,Wifi,3G,3月6日,Yes,Mobile,Moderate
+580,Wifi,4G,3月6日,No,Mobile,Moderate
+581,Mobile Data,3G,1月3日,No,Computer,Low
+582,Wifi,4G,3月6日,No,Computer,Low
+583,Mobile Data,2G,1月3日,No,Mobile,Low
+584,Mobile Data,4G,1月3日,No,Mobile,Moderate
+585,Wifi,4G,1月3日,Yes,Computer,High
+586,Wifi,2G,3月6日,Yes,Tab,Low
+587,Mobile Data,3G,1月3日,No,Mobile,Low
+588,Wifi,4G,3月6日,No,Computer,Moderate
+589,Wifi,3G,3月6日,No,Mobile,Low
+590,Wifi,4G,1月3日,No,Mobile,Moderate
+591,Mobile Data,4G,1月3日,No,Mobile,Moderate
+592,Mobile Data,4G,1月3日,No,Mobile,Low
+593,Wifi,4G,1月3日,No,Computer,High
+594,Wifi,3G,3月6日,Yes,Computer,Low
+595,Mobile Data,4G,1月3日,No,Mobile,Moderate
+596,Wifi,4G,0,No,Mobile,Low
+597,Wifi,4G,1月3日,Yes,Mobile,Moderate
+598,Mobile Data,4G,3月6日,No,Mobile,Moderate
+599,Mobile Data,4G,3月6日,No,Mobile,Moderate
+600,Wifi,4G,1月3日,No,Mobile,Low
+601,Mobile Data,4G,1月3日,Yes,Mobile,Low
+602,Mobile Data,4G,0,No,Mobile,Low
+603,Wifi,4G,3月6日,No,Tab,Moderate
+604,Mobile Data,3G,0,No,Mobile,Low
+605,Mobile Data,3G,1月3日,No,Mobile,Moderate
+606,Mobile Data,4G,3月6日,No,Mobile,Moderate
+607,Wifi,4G,1月3日,No,Mobile,High
+608,Mobile Data,4G,0,No,Mobile,Low
+609,Mobile Data,3G,1月3日,No,Mobile,Moderate
+610,Wifi,4G,1月3日,No,Mobile,Low
+611,Mobile Data,4G,1月3日,No,Mobile,Low
+612,Mobile Data,4G,1月3日,No,Mobile,Moderate
+613,Wifi,4G,3月6日,No,Computer,Moderate
+614,Wifi,4G,0,No,Mobile,Low
+615,Mobile Data,3G,1月3日,No,Mobile,Low
+616,Mobile Data,3G,1月3日,No,Mobile,High
+617,Mobile Data,4G,1月3日,No,Mobile,Moderate
+618,Mobile Data,3G,1月3日,No,Mobile,Low
+619,Mobile Data,4G,0,No,Mobile,Low
+620,Wifi,4G,3月6日,No,Computer,High
+621,Mobile Data,4G,1月3日,No,Mobile,High
+622,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+623,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+624,Mobile Data,4G,1月3日,No,Mobile,Moderate
+625,Mobile Data,4G,1月3日,No,Mobile,Low
+626,Wifi,4G,1月3日,No,Computer,Low
+627,Wifi,4G,1月3日,No,Mobile,Low
+628,Wifi,4G,1月3日,No,Mobile,High
+629,Wifi,4G,3月6日,No,Mobile,High
+630,Wifi,4G,1月3日,No,Mobile,Moderate
+631,Mobile Data,3G,1月3日,No,Mobile,Moderate
+632,Wifi,4G,3月6日,No,Mobile,Moderate
+633,Mobile Data,4G,1月3日,No,Mobile,Moderate
+634,Mobile Data,3G,1月3日,No,Mobile,Low
+635,Wifi,3G,0,Yes,Mobile,Low
+636,Mobile Data,4G,1月3日,No,Mobile,Moderate
+637,Wifi,4G,0,No,Mobile,Low
+638,Mobile Data,4G,1月3日,No,Mobile,Moderate
+639,Mobile Data,4G,1月3日,No,Mobile,Moderate
+640,Mobile Data,3G,1月3日,No,Mobile,Moderate
+641,Mobile Data,4G,1月3日,No,Mobile,High
+642,Mobile Data,4G,1月3日,No,Mobile,Moderate
+643,Wifi,4G,1月3日,No,Mobile,Low
+644,Wifi,4G,1月3日,No,Mobile,High
+645,Wifi,4G,1月3日,No,Mobile,Low
+646,Mobile Data,3G,1月3日,No,Mobile,Moderate
+647,Mobile Data,4G,0,No,Mobile,Low
+648,Mobile Data,4G,1月3日,No,Mobile,Moderate
+649,Mobile Data,4G,1月3日,Yes,Mobile,High
+650,Wifi,4G,1月3日,No,Mobile,Moderate
+651,Mobile Data,3G,1月3日,No,Mobile,Low
+652,Mobile Data,4G,1月3日,No,Mobile,Moderate
+653,Mobile Data,4G,0,No,Mobile,Low
+654,Mobile Data,4G,1月3日,No,Mobile,Low
+655,Wifi,4G,3月6日,Yes,Computer,Low
+656,Mobile Data,3G,1月3日,No,Mobile,Moderate
+657,Wifi,4G,1月3日,No,Mobile,High
+658,Wifi,4G,1月3日,No,Mobile,Low
+659,Mobile Data,3G,1月3日,No,Mobile,Low
+660,Wifi,4G,1月3日,Yes,Mobile,Low
+661,Wifi,4G,1月3日,No,Mobile,Moderate
+662,Mobile Data,4G,1月3日,No,Mobile,Moderate
+663,Mobile Data,3G,1月3日,No,Mobile,Low
+664,Mobile Data,3G,1月3日,No,Mobile,Moderate
+665,Mobile Data,4G,1月3日,No,Mobile,Moderate
+666,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+667,Wifi,4G,1月3日,No,Mobile,Low
+668,Wifi,4G,1月3日,No,Mobile,Moderate
+669,Wifi,4G,0,No,Computer,Low
+670,Mobile Data,3G,1月3日,No,Mobile,Moderate
+671,Wifi,4G,1月3日,No,Mobile,Low
+672,Wifi,4G,1月3日,No,Mobile,Low
+673,Wifi,4G,1月3日,No,Mobile,Low
+674,Wifi,4G,1月3日,No,Computer,Moderate
+675,Wifi,4G,1月3日,Yes,Mobile,Low
+676,Mobile Data,4G,0,No,Mobile,Moderate
+677,Mobile Data,3G,1月3日,Yes,Computer,Moderate
+678,Mobile Data,4G,1月3日,No,Mobile,Low
+679,Mobile Data,4G,1月3日,No,Mobile,Moderate
+680,Mobile Data,4G,1月3日,No,Mobile,Moderate
+681,Wifi,4G,3月6日,No,Computer,Low
+682,Mobile Data,3G,1月3日,No,Mobile,High
+683,Wifi,4G,1月3日,No,Mobile,Moderate
+684,Wifi,4G,1月3日,Yes,Mobile,Moderate
+685,Mobile Data,3G,0,No,Mobile,Low
+686,Wifi,4G,1月3日,No,Mobile,Low
+687,Wifi,4G,1月3日,No,Mobile,Moderate
+688,Wifi,3G,3月6日,No,Mobile,Low
+689,Wifi,4G,1月3日,No,Mobile,Moderate
+690,Wifi,4G,1月3日,Yes,Computer,High
+691,Wifi,4G,3月6日,No,Computer,Moderate
+692,Mobile Data,3G,1月3日,No,Mobile,Moderate
+693,Wifi,4G,3月6日,Yes,Computer,Moderate
+694,Wifi,4G,1月3日,No,Mobile,Moderate
+695,Mobile Data,3G,3月6日,Yes,Mobile,Low
+696,Mobile Data,4G,3月6日,No,Mobile,Moderate
+697,Mobile Data,3G,0,No,Mobile,Low
+698,Wifi,3G,3月6日,Yes,Computer,Low
+699,Mobile Data,4G,1月3日,No,Mobile,Moderate
+700,Wifi,4G,1月3日,No,Mobile,Low
+701,Mobile Data,4G,1月3日,No,Mobile,Moderate
+702,Mobile Data,4G,1月3日,No,Mobile,Low
+703,Mobile Data,3G,1月3日,No,Mobile,Low
+704,Mobile Data,4G,1月3日,Yes,Mobile,Low
+705,Mobile Data,3G,1月3日,No,Mobile,Low
+706,Wifi,4G,1月3日,Yes,Computer,Moderate
+707,Wifi,4G,3月6日,No,Mobile,Moderate
+708,Mobile Data,4G,1月3日,No,Mobile,Moderate
+709,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+710,Mobile Data,4G,1月3日,No,Mobile,Moderate
+711,Wifi,4G,1月3日,No,Mobile,Low
+712,Mobile Data,4G,0,No,Mobile,Low
+713,Mobile Data,4G,1月3日,Yes,Mobile,Low
+714,Mobile Data,4G,1月3日,No,Mobile,Moderate
+715,Wifi,4G,0,No,Mobile,Low
+716,Mobile Data,3G,0,No,Mobile,Low
+717,Wifi,3G,1月3日,No,Mobile,High
+718,Mobile Data,4G,0,No,Mobile,Low
+719,Mobile Data,3G,1月3日,No,Mobile,Moderate
+720,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+721,Mobile Data,4G,1月3日,No,Mobile,Moderate
+722,Mobile Data,4G,1月3日,No,Mobile,Moderate
+723,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+724,Mobile Data,3G,1月3日,No,Mobile,Low
+725,Wifi,4G,1月3日,No,Mobile,Low
+726,Wifi,4G,1月3日,No,Mobile,Moderate
+727,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+728,Mobile Data,3G,1月3日,No,Mobile,Moderate
+729,Mobile Data,3G,1月3日,No,Mobile,Low
+730,Mobile Data,4G,1月3日,No,Mobile,Moderate
+731,Wifi,3G,3月6日,Yes,Mobile,Moderate
+732,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+733,Mobile Data,4G,1月3日,No,Mobile,Moderate
+734,Wifi,4G,1月3日,Yes,Computer,High
+735,Mobile Data,4G,1月3日,No,Mobile,Moderate
+736,Wifi,4G,1月3日,No,Mobile,High
+737,Mobile Data,4G,0,No,Mobile,Low
+738,Wifi,4G,1月3日,No,Computer,Moderate
+739,Mobile Data,4G,1月3日,No,Mobile,Moderate
+740,Mobile Data,4G,0,No,Mobile,Low
+741,Wifi,4G,1月3日,Yes,Tab,Moderate
+742,Mobile Data,4G,1月3日,No,Mobile,Moderate
+743,Wifi,4G,1月3日,No,Mobile,Low
+744,Mobile Data,3G,1月3日,No,Mobile,Low
+745,Mobile Data,3G,1月3日,No,Mobile,Moderate
+746,Wifi,4G,0,No,Mobile,Low
+747,Wifi,3G,1月3日,Yes,Mobile,Moderate
+748,Wifi,4G,1月3日,No,Mobile,Moderate
+749,Mobile Data,4G,1月3日,Yes,Mobile,High
+750,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+751,Mobile Data,4G,1月3日,No,Mobile,Moderate
+752,Mobile Data,4G,0,No,Mobile,Moderate
+753,Wifi,4G,1月3日,No,Mobile,Moderate
+754,Mobile Data,3G,1月3日,No,Mobile,Low
+755,Wifi,2G,3月6日,No,Mobile,Moderate
+756,Wifi,4G,0,No,Mobile,Low
+757,Wifi,3G,1月3日,Yes,Computer,Moderate
+758,Wifi,3G,1月3日,No,Mobile,Low
+759,Mobile Data,4G,1月3日,No,Mobile,Moderate
+760,Mobile Data,4G,0,No,Mobile,Low
+761,Wifi,4G,1月3日,No,Mobile,Low
+762,Wifi,4G,1月3日,No,Mobile,Low
+763,Wifi,4G,3月6日,No,Computer,Moderate
+764,Mobile Data,3G,1月3日,No,Mobile,Low
+765,Wifi,4G,1月3日,No,Computer,Moderate
+766,Mobile Data,3G,1月3日,No,Mobile,Moderate
+767,Wifi,4G,0,No,Mobile,Low
+768,Mobile Data,4G,1月3日,No,Mobile,Moderate
+769,Wifi,4G,0,No,Mobile,Moderate
+770,Wifi,4G,3月6日,No,Mobile,High
+771,Mobile Data,4G,1月3日,No,Mobile,Moderate
+772,Wifi,4G,3月6日,No,Computer,Moderate
+773,Wifi,2G,3月6日,Yes,Tab,Low
+774,Wifi,4G,1月3日,No,Mobile,Low
+775,Wifi,3G,3月6日,No,Mobile,Low
+776,Wifi,4G,3月6日,No,Mobile,Moderate
+777,Mobile Data,3G,1月3日,No,Mobile,Moderate
+778,Wifi,4G,0,No,Mobile,Low
+779,Mobile Data,3G,1月3日,No,Mobile,Low
+780,Wifi,4G,1月3日,No,Mobile,Moderate
+781,Wifi,4G,3月6日,Yes,Computer,Moderate
+782,Mobile Data,3G,1月3日,No,Mobile,Moderate
+783,Mobile Data,4G,1月3日,No,Mobile,Low
+784,Wifi,4G,1月3日,No,Computer,Moderate
+785,Mobile Data,4G,1月3日,Yes,Mobile,Low
+786,Wifi,4G,1月3日,No,Computer,Moderate
+787,Wifi,4G,1月3日,No,Mobile,Low
+788,Mobile Data,3G,1月3日,No,Mobile,Moderate
+789,Wifi,4G,3月6日,No,Mobile,High
+790,Wifi,4G,3月6日,No,Computer,Moderate
+791,Mobile Data,4G,1月3日,No,Mobile,Low
+792,Mobile Data,4G,1月3日,No,Mobile,Moderate
+793,Mobile Data,3G,0,No,Mobile,Low
+794,Mobile Data,3G,0,No,Mobile,Low
+795,Mobile Data,4G,1月3日,No,Mobile,Low
+796,Mobile Data,3G,1月3日,No,Mobile,Moderate
+797,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+798,Mobile Data,4G,3月6日,No,Mobile,Moderate
+799,Mobile Data,4G,1月3日,No,Mobile,Moderate
+800,Wifi,4G,3月6日,No,Computer,Moderate
+801,Wifi,4G,1月3日,No,Computer,Moderate
+802,Wifi,4G,1月3日,No,Mobile,Moderate
+803,Wifi,4G,1月3日,No,Computer,Low
+804,Mobile Data,4G,1月3日,No,Mobile,Moderate
+805,Mobile Data,3G,1月3日,Yes,Mobile,Low
+806,Mobile Data,3G,0,No,Mobile,Low
+807,Wifi,4G,1月3日,No,Mobile,Moderate
+808,Mobile Data,4G,1月3日,No,Mobile,Moderate
+809,Wifi,4G,3月6日,No,Tab,Moderate
+810,Wifi,4G,1月3日,No,Computer,Moderate
+811,Wifi,4G,1月3日,No,Computer,High
+812,Wifi,4G,3月6日,No,Mobile,Moderate
+813,Wifi,4G,3月6日,No,Mobile,Moderate
+814,Mobile Data,3G,1月3日,No,Mobile,Low
+815,Mobile Data,3G,1月3日,No,Mobile,High
+816,Mobile Data,3G,1月3日,No,Mobile,Low
+817,Mobile Data,4G,1月3日,No,Mobile,Moderate
+818,Mobile Data,3G,1月3日,No,Mobile,Low
+819,Mobile Data,4G,0,No,Mobile,Low
+820,Mobile Data,3G,0,No,Mobile,Low
+821,Mobile Data,4G,1月3日,No,Mobile,Moderate
+822,Mobile Data,3G,1月3日,No,Mobile,Moderate
+823,Mobile Data,4G,1月3日,No,Mobile,High
+824,Wifi,4G,3月6日,No,Tab,Moderate
+825,Mobile Data,3G,1月3日,No,Mobile,Low
+826,Mobile Data,3G,1月3日,No,Mobile,Moderate
+827,Wifi,4G,1月3日,No,Computer,Moderate
+828,Wifi,4G,1月3日,Yes,Computer,Moderate
+829,Wifi,4G,3月6日,Yes,Computer,Moderate
+830,Mobile Data,4G,1月3日,No,Mobile,Moderate
+831,Mobile Data,4G,1月3日,No,Mobile,Low
+832,Mobile Data,3G,1月3日,No,Mobile,Low
+833,Mobile Data,3G,1月3日,No,Mobile,Moderate
+834,Mobile Data,4G,1月3日,No,Mobile,Moderate
+835,Wifi,3G,3月6日,Yes,Computer,Low
+836,Mobile Data,3G,1月3日,No,Mobile,Moderate
+837,Mobile Data,4G,1月3日,No,Mobile,Moderate
+838,Wifi,4G,3月6日,No,Mobile,Moderate
+839,Mobile Data,4G,1月3日,No,Mobile,Moderate
+840,Mobile Data,3G,1月3日,No,Mobile,Low
+841,Wifi,4G,1月3日,No,Mobile,Moderate
+842,Wifi,4G,3月6日,No,Mobile,High
+843,Mobile Data,3G,1月3日,No,Mobile,Low
+844,Wifi,3G,1月3日,Yes,Computer,Moderate
+845,Mobile Data,4G,1月3日,No,Mobile,High
+846,Mobile Data,4G,1月3日,No,Mobile,Moderate
+847,Wifi,4G,3月6日,No,Tab,Moderate
+848,Wifi,4G,1月3日,No,Mobile,Low
+849,Mobile Data,3G,1月3日,No,Mobile,High
+850,Mobile Data,3G,1月3日,No,Mobile,Moderate
+851,Mobile Data,3G,1月3日,No,Mobile,Moderate
+852,Mobile Data,3G,1月3日,No,Mobile,Low
+853,Mobile Data,3G,1月3日,No,Mobile,Moderate
+854,Mobile Data,3G,1月3日,No,Mobile,Low
+855,Mobile Data,4G,1月3日,No,Mobile,Low
+856,Mobile Data,4G,0,No,Mobile,Low
+857,Wifi,3G,1月3日,No,Mobile,Low
+858,Mobile Data,3G,1月3日,No,Mobile,Moderate
+859,Wifi,4G,1月3日,No,Mobile,Moderate
+860,Wifi,4G,1月3日,No,Mobile,Low
+861,Mobile Data,4G,0,No,Mobile,Low
+862,Wifi,4G,0,No,Mobile,Moderate
+863,Mobile Data,4G,1月3日,No,Mobile,Low
+864,Mobile Data,3G,0,No,Mobile,Low
+865,Wifi,4G,0,No,Mobile,Low
+866,Mobile Data,4G,1月3日,No,Mobile,Moderate
+867,Mobile Data,3G,1月3日,No,Mobile,Low
+868,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+869,Mobile Data,3G,1月3日,No,Mobile,Moderate
+870,Mobile Data,3G,1月3日,No,Mobile,Moderate
+871,Wifi,4G,3月6日,No,Mobile,Moderate
+872,Wifi,4G,3月6日,No,Tab,Moderate
+873,Wifi,4G,1月3日,No,Mobile,Moderate
+874,Mobile Data,3G,0,No,Mobile,Low
+875,Wifi,4G,1月3日,No,Mobile,Moderate
+876,Wifi,4G,1月3日,Yes,Mobile,Moderate
+877,Mobile Data,3G,1月3日,No,Mobile,Moderate
+878,Wifi,4G,1月3日,No,Mobile,Low
+879,Mobile Data,3G,1月3日,No,Mobile,Low
+880,Mobile Data,4G,1月3日,No,Mobile,Moderate
+881,Wifi,4G,3月6日,No,Tab,Moderate
+882,Wifi,4G,1月3日,No,Mobile,Low
+883,Mobile Data,3G,1月3日,No,Mobile,Low
+884,Mobile Data,4G,3月6日,No,Mobile,Moderate
+885,Wifi,4G,1月3日,No,Computer,Moderate
+886,Mobile Data,4G,1月3日,No,Mobile,Moderate
+887,Mobile Data,4G,1月3日,No,Mobile,Moderate
+888,Mobile Data,3G,3月6日,Yes,Mobile,Moderate
+889,Wifi,4G,1月3日,Yes,Computer,Moderate
+890,Mobile Data,3G,1月3日,No,Mobile,Moderate
+891,Wifi,3G,1月3日,Yes,Computer,Moderate
+892,Wifi,4G,1月3日,No,Computer,Moderate
+893,Wifi,3G,1月3日,No,Mobile,Moderate
+894,Mobile Data,3G,1月3日,No,Mobile,Moderate
+895,Mobile Data,3G,1月3日,No,Mobile,Low
+896,Wifi,4G,1月3日,Yes,Computer,Moderate
+897,Wifi,4G,1月3日,No,Mobile,Low
+898,Mobile Data,4G,1月3日,No,Mobile,Moderate
+899,Wifi,4G,3月6日,No,Computer,Low
+900,Wifi,4G,1月3日,No,Computer,Moderate
+901,Wifi,4G,1月3日,No,Computer,Moderate
+902,Mobile Data,4G,1月3日,Yes,Mobile,Moderate
+903,Wifi,4G,1月3日,No,Mobile,Low
+904,Mobile Data,3G,1月3日,Yes,Mobile,Moderate
+905,Mobile Data,4G,1月3日,No,Mobile,High
+906,Wifi,4G,3月6日,No,Mobile,High
+907,Wifi,3G,1月3日,No,Mobile,Low
+908,Mobile Data,4G,1月3日,No,Mobile,Moderate
+909,Wifi,4G,1月3日,No,Mobile,Moderate
+910,Wifi,4G,0,No,Mobile,Low
+911,Mobile Data,4G,1月3日,No,Mobile,Moderate
+912,Wifi,4G,3月6日,Yes,Computer,Low
+913,Mobile Data,4G,1月3日,No,Mobile,Moderate
+914,Mobile Data,4G,1月3日,No,Mobile,Moderate
+915,Mobile Data,3G,1月3日,No,Mobile,Low
+916,Mobile Data,4G,1月3日,No,Mobile,Moderate
+917,Mobile Data,4G,1月3日,No,Mobile,Moderate
+918,Mobile Data,4G,1月3日,No,Mobile,Moderate
+919,Wifi,4G,1月3日,Yes,Computer,High
+920,Mobile Data,4G,1月3日,No,Mobile,Moderate
+921,Mobile Data,3G,1月3日,No,Mobile,Moderate
+922,Mobile Data,3G,1月3日,No,Mobile,Moderate
+923,Wifi,3G,1月3日,No,Computer,Moderate
+924,Mobile Data,4G,0,No,Mobile,Low
+925,Wifi,3G,1月3日,Yes,Mobile,High
+926,Mobile Data,4G,1月3日,No,Mobile,Moderate
+927,Mobile Data,3G,1月3日,No,Mobile,Low
+928,Mobile Data,4G,1月3日,No,Mobile,Moderate
+929,Mobile Data,3G,1月3日,No,Mobile,Low
+930,Wifi,4G,1月3日,No,Mobile,Moderate
+931,Mobile Data,3G,1月3日,No,Mobile,Moderate
+932,Mobile Data,3G,1月3日,No,Mobile,Moderate
+933,Mobile Data,3G,1月3日,No,Mobile,Low
+934,Wifi,3G,3月6日,No,Computer,Moderate
+935,Mobile Data,2G,0,No,Mobile,Low
+936,Wifi,4G,1月3日,Yes,Tab,Moderate
+937,Wifi,4G,3月6日,No,Tab,High
+938,Mobile Data,3G,1月3日,No,Mobile,Low
+939,Mobile Data,3G,1月3日,No,Mobile,Moderate
+940,Wifi,4G,1月3日,No,Mobile,High
+941,Mobile Data,3G,1月3日,No,Mobile,Low
+942,Mobile Data,3G,1月3日,No,Mobile,Low
+943,Wifi,4G,1月3日,No,Mobile,Low
+944,Mobile Data,4G,1月3日,No,Mobile,High
+945,Wifi,4G,3月6日,Yes,Computer,Moderate
+946,Wifi,4G,1月3日,No,Mobile,Moderate
+947,Wifi,4G,1月3日,No,Mobile,Moderate
+948,Mobile Data,4G,1月3日,No,Mobile,Moderate
+949,Wifi,4G,1月3日,No,Mobile,Low
+950,Wifi,4G,0,No,Mobile,Moderate
+951,Wifi,3G,3月6日,No,Mobile,Low
+952,Wifi,4G,3月6日,No,Computer,Low
+953,Wifi,3G,1月3日,Yes,Mobile,Moderate
+954,Wifi,4G,1月3日,No,Mobile,Moderate
+955,Wifi,3G,1月3日,No,Mobile,High
+956,Mobile Data,3G,0,No,Mobile,Low
+957,Mobile Data,4G,1月3日,No,Mobile,High
+958,Mobile Data,4G,1月3日,No,Mobile,Moderate
+959,Mobile Data,3G,1月3日,No,Mobile,Low
+960,Wifi,4G,3月6日,No,Tab,Moderate
+961,Wifi,4G,1月3日,Yes,Mobile,Low
+962,Wifi,4G,3月6日,No,Tab,Moderate
+963,Wifi,4G,1月3日,Yes,Computer,High
+964,Wifi,4G,1月3日,No,Mobile,Moderate
+965,Wifi,4G,3月6日,No,Mobile,Moderate
+966,Wifi,4G,3月6日,No,Mobile,Moderate
+967,Mobile Data,4G,0,No,Mobile,Low
+968,Wifi,4G,1月3日,No,Mobile,Low
+969,Mobile Data,4G,1月3日,No,Mobile,Moderate
+970,Mobile Data,4G,1月3日,No,Mobile,Moderate
+971,Wifi,4G,1月3日,No,Mobile,Moderate
+972,Mobile Data,3G,0,No,Mobile,Low
+973,Wifi,4G,0,No,Mobile,Low
+974,Mobile Data,4G,1月3日,No,Mobile,Moderate
+975,Mobile Data,3G,1月3日,Yes,Mobile,Low
+976,Mobile Data,4G,1月3日,No,Mobile,Moderate
+977,Wifi,4G,1月3日,No,Mobile,Moderate
+978,Mobile Data,4G,0,No,Mobile,Low
+979,Mobile Data,2G,0,No,Mobile,Low
+980,Mobile Data,4G,1月3日,No,Mobile,Moderate
+981,Mobile Data,4G,1月3日,No,Mobile,Moderate
+982,Mobile Data,4G,1月3日,No,Mobile,Moderate
+983,Mobile Data,3G,1月3日,No,Mobile,Low
+984,Wifi,3G,1月3日,Yes,Mobile,Moderate
+985,Mobile Data,3G,0,No,Mobile,Low
+986,Mobile Data,3G,1月3日,No,Mobile,Moderate
+987,Mobile Data,4G,1月3日,No,Mobile,Moderate
+988,Mobile Data,4G,1月3日,No,Mobile,High
+989,Mobile Data,4G,0,No,Mobile,Low
+990,Mobile Data,4G,0,No,Mobile,Low
+991,Wifi,4G,3月6日,No,Mobile,Low
+992,Wifi,4G,1月3日,No,Computer,Low
+993,Mobile Data,4G,0,No,Mobile,Low
+994,Wifi,4G,3月6日,Yes,Computer,Low
+995,Mobile Data,3G,1月3日,No,Mobile,Low
+996,Mobile Data,4G,1月3日,No,Mobile,High
+997,Mobile Data,4G,0,No,Mobile,Low
+998,Mobile Data,4G,1月3日,No,Mobile,Moderate
+999,Wifi,4G,1月3日,No,Mobile,Low
+1000,Mobile Data,4G,1月3日,No,Mobile,Moderate

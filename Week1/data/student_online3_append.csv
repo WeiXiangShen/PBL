@@ -1,0 +1,236 @@
+id,Gender,Age,Education Level,Institution Type,IT Student,Location,Load-shedding,Financial Condition,Internet Type,Network Type,Class Duration,Self Lms,Device,Adaptivity Level
+971,Girl,11る15ら,School,Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Moderate
+972,Girl,11る15ら,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+973,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+974,Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+975,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Low
+976,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+977,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+978,Boy,6る10ら,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+979,Boy,6る10ら,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,Low
+980,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+981,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+982,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+983,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+984,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1る3ら,Yes,Mobile,Moderate
+985,Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+986,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+987,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+988,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,High
+989,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+990,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+991,Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3る6ら,No,Mobile,Low
+992,Boy,11る15ら,School,Non Government,No,Yes,High,Mid,Wifi,4G,1る3ら,No,Computer,Low
+993,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+994,Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,Yes,Computer,Low
+995,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+996,Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1る3ら,No,Mobile,High
+997,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+998,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+999,Girl,11る15ら,School,Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Low
+1000,Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1001,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1002,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1003,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1004,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1005,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1006,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1007,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3る6ら,No,Computer,Moderate
+1008,Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1る3ら,Yes,Mobile,Moderate
+1009,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1010,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1011,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3る6ら,Yes,Computer,Moderate
+1012,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1013,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1る3ら,No,Mobile,Low
+1014,Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1015,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1016,Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1017,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1018,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1019,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1020,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1021,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Tab,Moderate
+1022,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Computer,Moderate
+1023,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3る6ら,No,Mobile,Moderate
+1024,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1025,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,No,Computer,Moderate
+1026,Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,High
+1027,Boy,11る15ら,School,Non Government,No,Yes,High,Mid,Wifi,4G,1る3ら,No,Computer,Low
+1028,Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1029,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1030,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1031,Girl,11る15ら,School,Government,No,Yes,Low,Mid,Wifi,3G,1る3ら,No,Mobile,Low
+1032,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1る3ら,No,Mobile,High
+1033,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1034,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,High
+1035,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3る6ら,No,Computer,Moderate
+1036,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+1037,Boy,1る5ら,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1038,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,Yes,Mobile,Moderate
+1039,Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1040,Girl,11る15ら,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1る3ら,No,Mobile,High
+1041,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1042,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Tab,Moderate
+1043,Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1044,Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1045,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1046,Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Computer,Low
+1047,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Tab,Moderate
+1048,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1049,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1050,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1051,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1052,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1る3ら,Yes,Mobile,Moderate
+1053,Girl,11る15ら,School,Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Moderate
+1054,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1055,Boy,1る5ら,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1056,Girl,11る15ら,School,Government,No,No,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1057,Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3る6ら,No,Tab,Moderate
+1058,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1059,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3る6ら,No,Computer,Moderate
+1060,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1061,Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+1062,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Computer,Moderate
+1063,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1る3ら,No,Computer,Moderate
+1064,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Computer,Moderate
+1065,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1066,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1る3ら,No,Computer,High
+1067,Boy,11る15ら,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+1068,Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Low
+1069,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3る6ら,Yes,Mobile,Moderate
+1070,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3る6ら,Yes,Mobile,Moderate
+1071,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,No,Computer,Moderate
+1072,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,High
+1073,Boy,11る15ら,School,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,High
+1074,Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,Low
+1075,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1076,Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3る6ら,Yes,Computer,Low
+1077,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,High
+1078,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1079,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1080,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1る3ら,No,Mobile,Low
+1081,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3る6ら,Yes,Mobile,Low
+1082,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1083,Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1084,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1085,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1086,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Moderate
+1087,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1088,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1089,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1090,Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1091,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1092,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+1093,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3る6ら,Yes,Mobile,Low
+1094,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1095,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1096,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3る6ら,No,Computer,High
+1097,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3る6ら,Yes,Mobile,Moderate
+1098,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3る6ら,No,Mobile,Low
+1099,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1100,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1る3ら,No,Mobile,Moderate
+1101,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+1102,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1103,Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1104,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1105,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1106,Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1107,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1る3ら,No,Mobile,High
+1108,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1109,Boy,6る10ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1110,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3る6ら,No,Mobile,Moderate
+1111,Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1る3ら,Yes,Mobile,Moderate
+1112,Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1113,Boy,11る15ら,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1114,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+1115,Girl,11る15ら,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1る3ら,No,Mobile,High
+1116,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+1117,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1118,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,Yes,Mobile,Moderate
+1119,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1120,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1121,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1122,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1123,Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1124,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,Yes,Tab,Moderate
+1125,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3る6ら,No,Computer,Low
+1126,Girl,11る15ら,School,Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Moderate
+1127,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3る6ら,No,Computer,Low
+1128,Boy,6る10ら,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1129,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1130,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1131,Boy,11る15ら,School,Non Government,No,Yes,High,Poor,Wifi,4G,1る3ら,No,Mobile,Low
+1132,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1133,Boy,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1134,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1135,Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1136,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,No,Computer,Moderate
+1137,Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Computer,Moderate
+1138,Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Moderate
+1139,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1140,Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+1141,Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1142,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1る3ら,No,Mobile,High
+1143,Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1144,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3る6ら,Yes,Mobile,Low
+1145,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1146,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1る3ら,Yes,Tab,Moderate
+1147,Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3る6ら,No,Computer,Moderate
+1148,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1149,Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1150,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Low
+1151,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1152,Girl,11る15ら,School,Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1153,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1154,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1155,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3る6ら,No,Computer,Low
+1156,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1157,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+1158,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1る3ら,No,Computer,High
+1159,Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1る3ら,No,Mobile,Low
+1160,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1161,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1162,Girl,11る15ら,School,Government,No,No,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1163,Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1164,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3る6ら,No,Mobile,Moderate
+1165,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3る6ら,No,Mobile,Moderate
+1166,Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1る3ら,Yes,Mobile,Moderate
+1167,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Computer,Moderate
+1168,Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1169,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3る6ら,Yes,Computer,Moderate
+1170,Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3る6ら,Yes,Mobile,Low
+1171,Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3る6ら,Yes,Mobile,Moderate
+1172,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,High
+1173,Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1174,Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Low
+1175,Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3る6ら,No,Mobile,Moderate
+1176,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+1177,Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1る3ら,No,Computer,High
+1178,Boy,6る10ら,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+1179,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1る3ら,No,Mobile,Moderate
+1180,Girl,11る15ら,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1る3ら,No,Mobile,High
+1181,Boy,1る5ら,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1182,Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1る3ら,Yes,Mobile,Low
+1183,Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1る3ら,Yes,Computer,Moderate
+1184,Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+1185,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1186,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Low
+1187,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1188,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1189,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1る3ら,No,Mobile,Moderate
+1190,Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1191,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1る3ら,Yes,Mobile,Moderate
+1192,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1193,Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1194,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1る3ら,Yes,Computer,High
+1195,Boy,11る15ら,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1196,Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1る3ら,Yes,Computer,High
+1197,Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1る3ら,No,Mobile,Low
+1198,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,3る6ら,No,Computer,Moderate
+1199,Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+1200,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3る6ら,No,Computer,Low
+1201,Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1202,Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3る6ら,No,Mobile,Moderate
+1203,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1る3ら,No,Mobile,Moderate
+1204,Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1る3ら,No,Mobile,Low
+1205,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1る3ら,No,Mobile,Moderate

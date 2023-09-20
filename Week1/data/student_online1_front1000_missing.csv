@@ -1,0 +1,1001 @@
+id,Gender,Age,Education Level,Institution Type,IT Student,Location,Load-shedding,Financial Condition
+1,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+2,Girl,21-25,University,Non Government,No,Yes,High,Mid
+3,Girl,16-20,College,Government,No,Yes,Low,Mid
+4,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+5,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+6,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+7,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+8,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+9,Boy,16-20,College,Government,No,Yes,Low,Mid
+10,Boy,11る15ら,School,Non Government,,Yes,Low,Mid
+11,Girl,16-20,University,Government,No,Yes,Low,Mid
+12,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+13,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+14,,16-20,College,Non Government,No,No,Low,Mid
+15,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+16,Boy,11る15ら,School,Non Government,No,Yes,High,Poor
+17,Girl,26-30,University,Government,Yes,Yes,Low,Poor
+18,Girl,21-25,University,Government,No,No,Low,Mid
+19,,16-20,College,Non Government,No,Yes,High,Mid
+20,Girl,16-20,College,Non Government,No,Yes,High,Mid
+21,Girl,6る10ら,School,Non Government,No,Yes,Low,Rich
+22,Boy,6る10ら,School,Government,No,Yes,Low,Mid
+23,Girl,16-20,College,Non Government,No,No,Low,Mid
+24,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+25,Boy,16-20,College,Government,No,Yes,Low,Mid
+26,,11る15ら,School,Non Government,No,,Low,Mid
+27,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+28,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid
+29,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+30,Girl,16-20,College,Non Government,No,Yes,High,Mid
+31,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+32,Girl,16-20,College,Non Government,No,No,Low,Mid
+33,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+34,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+35,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+36,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+37,Girl,21-25,College,Government,Yes,Yes,Low,Mid
+38,Girl,6る10ら,School,,No,,Low,Poor
+39,Girl,26-30,University,Government,No,No,Low,Poor
+40,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+41,Boy,,University,Non Government,No,Yes,,Mid
+42,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+43,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+44,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+45,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+46,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+47,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+48,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+49,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+50,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+51,Boy,16-20,College,Government,No,Yes,Low,Mid
+52,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+53,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+54,Boy,26-30,University,Government,Yes,No,Low,Poor
+55,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+56,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+57,Boy,21-25,University,Government,No,Yes,Low,Mid
+58,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+59,Girl,11る15ら,School,Non Government,No,No,High,Mid
+60,Boy,16-20,School,Government,No,No,Low,Poor
+61,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+62,Boy,21-25,College,Government,No,No,Low,Mid
+63,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+64,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+65,Boy,11る15ら,School,Non Government,No,Yes,High,Poor
+66,Boy,26-30,University,,No,No,Low,Mid
+67,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+68,Girl,6る10ら,School,Government,No,No,Low,Mid
+69,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+70,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+71,Boy,21-25,College,Government,No,No,High,Poor
+72,Girl,16-20,College,Government,No,No,Low,Mid
+73,Boy,21-25,University,Government,No,Yes,Low,Mid
+74,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+75,Boy,11る15ら,School,,Yes,Yes,Low,Mid
+76,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+77,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+78,Girl,21-25,College,Government,No,No,High,Mid
+79,Girl,11る15ら,,Non Government,No,Yes,Low,Mid
+80,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+81,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+82,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+83,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+84,Girl,11る15ら,School,Government,No,No,Low,Mid
+85,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+86,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+87,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+88,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+89,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+90,Boy,26-30,University,Government,No,No,Low,Poor
+91,Boy,21-25,University,Non Government,No,No,Low,Mid
+92,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+93,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+94,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+95,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+96,Girl,16-20,,Non Government,,Yes,Low,Mid
+97,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+98,Girl,11る15ら,School,Government,No,No,High,Poor
+99,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+100,Boy,16-20,College,Government,No,Yes,Low,Mid
+101,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+102,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+103,Girl,16-20,College,Non Government,No,No,High,Mid
+104,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+105,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+106,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+107,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+108,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+109,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+110,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+111,Boy,6る10ら,School,Government,No,Yes,Low,Mid
+112,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+113,Boy,11る15ら,School,Government,No,No,Low,Mid
+114,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+115,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+116,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+117,Boy,26-30,University,,Yes,Yes,Low,Mid
+118,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+119,Boy,16-20,College,Government,No,No,High,Poor
+120,Girl,21-25,University,Non Government,Yes,No,Low,Mid
+121,Girl,16-20,College,Non Government,No,Yes,High,Mid
+122,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+123,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+124,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+125,Girl,16-20,,Non Government,Yes,Yes,Low,
+126,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+127,Girl,21-25,University,Government,No,Yes,Low,Mid
+128,Boy,16-20,College,Government,No,Yes,Low,Mid
+129,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+130,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+131,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+132,Boy,21-25,University,Government,Yes,No,High,Mid
+133,Boy,21-25,University,Non Government,Yes,No,High,Mid
+134,Boy,16-20,College,Government,No,Yes,Low,Poor
+135,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+136,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+137,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+138,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+139,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+140,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+141,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+142,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+143,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+144,Girl,16-20,College,Non Government,No,No,Low,Mid
+145,Boy,21-25,University,Government,No,No,Low,Poor
+146,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+147,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+148,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+149,Girl,21-25,University,Non Government,No,Yes,High,Poor
+150,Girl,21-25,University,Government,No,No,Low,Mid
+151,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+152,Boy,16-20,College,Government,No,No,Low,Mid
+153,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+154,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+155,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+156,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+157,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+158,Boy,26-30,University,Government,Yes,Yes,Low,Rich
+159,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+160,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+161,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+162,Boy,21-25,University,Non Government,Yes,No,High,Mid
+163,Boy,16-20,University,Government,No,No,Low,Poor
+164,Boy,6る10ら,School,Government,No,No,Low,Mid
+165,Girl,16-20,College,Government,No,No,High,Poor
+166,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+167,Boy,21-25,College,Government,No,No,High,Poor
+168,Boy,26-30,University,Government,No,No,Low,Mid
+169,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+170,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+171,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+172,Girl,26-30,University,Government,No,Yes,Low,Mid
+173,Girl,16-20,College,Non Government,No,Yes,High,Mid
+174,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+175,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+176,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+177,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+178,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+179,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+180,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+181,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+182,Boy,1る5ら,School,Non Government,No,Yes,Low,Mid
+183,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+184,Girl,21-25,University,Non Government,No,Yes,Low,Rich
+185,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+186,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+187,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+188,Girl,21-25,University,Government,No,Yes,Low,Mid
+189,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+190,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+191,Boy,11る15ら,School,Non Government,No,Yes,High,Poor
+192,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+193,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+194,Boy,16-20,School,Government,No,No,Low,Poor
+195,Girl,16-20,College,Government,No,No,Low,Mid
+196,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+197,Boy,16-20,College,Government,No,Yes,Low,Poor
+198,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Poor
+199,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+200,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+201,Boy,6る10ら,School,Government,No,Yes,Low,Mid
+202,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+203,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+204,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+205,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+206,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+207,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid
+208,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+209,Girl,26-30,University,Government,No,Yes,Low,Mid
+210,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+211,Girl,11る15ら,School,Government,No,No,High,Poor
+212,Girl,16-20,School,Government,No,No,Low,Rich
+213,Girl,16-20,College,Government,No,No,High,Mid
+214,Girl,16-20,College,Non Government,No,Yes,High,Mid
+215,Girl,21-25,College,Government,Yes,Yes,Low,Mid
+216,Boy,16-20,School,Government,No,Yes,Low,Rich
+217,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+218,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+219,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+220,Boy,11る15ら,School,Government,No,No,Low,Mid
+221,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+222,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+223,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+224,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+225,Girl,21-25,University,Non Government,No,No,Low,Mid
+226,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+227,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+228,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+229,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+230,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+231,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+232,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+233,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+234,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+235,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+236,Boy,21-25,University,Non Government,Yes,No,High,Poor
+237,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+238,Girl,26-30,University,Government,No,Yes,Low,Mid
+239,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+240,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+241,Girl,21-25,University,Government,No,Yes,Low,Mid
+242,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+243,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+244,Girl,16-20,College,Non Government,No,No,High,Mid
+245,Girl,11る15ら,School,Non Government,No,No,High,Mid
+246,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+247,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+248,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+249,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+250,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+251,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+252,Girl,16-20,College,Non Government,No,Yes,High,Mid
+253,Boy,16-20,College,Government,No,No,Low,Mid
+254,Boy,21-25,University,Government,No,No,Low,Poor
+255,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+256,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+257,Boy,16-20,College,Government,No,Yes,High,Mid
+258,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+259,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+260,Boy,26-30,University,Government,Yes,Yes,Low,Rich
+261,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+262,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+263,Girl,16-20,College,Non Government,No,Yes,High,Mid
+264,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+265,Boy,16-20,College,Government,No,Yes,Low,Mid
+266,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+267,Girl,16-20,College,Government,No,Yes,Low,Mid
+268,Girl,16-20,University,Government,No,Yes,Low,Mid
+269,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+270,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+271,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+272,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+273,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+274,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+275,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+276,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+277,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+278,Girl,21-25,University,Government,No,No,Low,Mid
+279,Boy,21-25,University,Non Government,No,No,Low,Poor
+280,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+281,Boy,26-30,University,Government,No,No,Low,Poor
+282,Girl,16-20,College,Government,No,No,Low,Mid
+283,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+284,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+285,Boy,21-25,University,Non Government,No,No,Low,Mid
+286,Boy,21-25,College,Government,Yes,No,Low,Poor
+287,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+288,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+289,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+290,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+291,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+292,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+293,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+294,Girl,21-25,University,Government,No,Yes,Low,Mid
+295,Girl,1る5ら,School,Government,No,Yes,Low,Rich
+296,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+297,Boy,21-25,University,Non Government,No,Yes,Low,Rich
+298,Girl,16-20,College,Government,No,No,High,Mid
+299,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+300,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+301,Boy,21-25,University,Non Government,No,Yes,Low,Rich
+302,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+303,Boy,1る5ら,School,Non Government,No,Yes,Low,Mid
+304,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+305,Boy,21-25,University,Government,No,No,High,Poor
+306,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+307,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+308,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+309,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+310,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+311,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+312,Girl,16-20,College,Non Government,No,No,Low,Mid
+313,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+314,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+315,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+316,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+317,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+318,Girl,21-25,University,Government,No,Yes,Low,Mid
+319,Girl,16-20,College,Non Government,No,Yes,High,Mid
+320,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+321,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+322,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+323,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+324,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+325,Girl,16-20,College,Non Government,No,No,Low,Mid
+326,Boy,21-25,University,Government,Yes,No,High,Mid
+327,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+328,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+329,Boy,21-25,University,Non Government,No,No,Low,Mid
+330,Girl,21-25,College,Government,No,No,High,Mid
+331,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+332,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+333,Girl,21-25,University,Non Government,No,Yes,High,Poor
+334,Girl,21-25,University,Non Government,Yes,No,Low,Mid
+335,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+336,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+337,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+338,Boy,16-20,College,Government,No,Yes,Low,Mid
+339,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+340,Girl,26-30,University,Government,No,No,Low,Poor
+341,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+342,Girl,21-25,College,Government,Yes,Yes,Low,Mid
+343,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+344,Boy,16-20,School,Government,No,Yes,Low,Mid
+345,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+346,Boy,21-25,University,Non Government,Yes,No,High,Poor
+347,Girl,26-30,University,Government,No,Yes,Low,Mid
+348,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+349,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+350,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+351,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+352,Girl,26-30,University,Government,No,No,Low,Poor
+353,Girl,16-20,College,Non Government,No,Yes,High,Mid
+354,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+355,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+356,Boy,16-20,College,Government,Yes,No,Low,Rich
+357,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+358,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+359,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+360,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+361,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+362,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+363,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+364,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+365,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+366,Boy,21-25,University,Non Government,No,Yes,Low,Rich
+367,Girl,16-20,College,Government,No,Yes,Low,Mid
+368,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+369,Girl,16-20,College,Government,No,Yes,Low,Mid
+370,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+371,Boy,16-20,School,Government,No,Yes,Low,Mid
+372,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+373,Girl,16-20,University,Government,No,Yes,Low,Mid
+374,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid
+375,Boy,21-25,College,Government,Yes,Yes,Low,Mid
+376,Girl,6る10ら,School,Government,No,No,Low,Mid
+377,Girl,11る15ら,School,Non Government,No,No,High,Mid
+378,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+379,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+380,Girl,26-30,University,Government,No,Yes,Low,Mid
+381,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+382,Boy,21-25,University,Government,No,No,Low,Mid
+383,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+384,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+385,Boy,16-20,College,Government,No,Yes,Low,Mid
+386,Boy,21-25,University,Government,Yes,No,High,Mid
+387,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+388,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+389,Boy,26-30,University,Non Government,Yes,Yes,High,Poor
+390,Girl,11る15ら,School,Government,No,No,Low,Mid
+391,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+392,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+393,Girl,16-20,College,Non Government,No,No,Low,Mid
+394,Girl,26-30,University,Government,No,No,Low,Poor
+395,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+396,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+397,Girl,21-25,University,Non Government,No,No,Low,Mid
+398,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+399,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+400,Girl,26-30,University,Government,No,Yes,Low,Mid
+401,Boy,16-20,School,Government,No,Yes,Low,Mid
+402,Boy,16-20,College,Government,No,Yes,Low,Mid
+403,Boy,26-30,University,Government,Yes,Yes,Low,Mid
+404,Boy,16-20,College,Government,No,Yes,High,Mid
+405,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+406,Girl,26-30,University,Government,No,No,Low,Poor
+407,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+408,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+409,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+410,Boy,26-30,University,Government,Yes,Yes,Low,Rich
+411,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+412,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+413,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+414,Girl,16-20,College,Non Government,No,No,Low,Mid
+415,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+416,Boy,26-30,University,Government,Yes,Yes,Low,Mid
+417,Boy,16-20,College,Government,No,No,High,Mid
+418,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid
+419,Boy,16-20,University,Government,No,Yes,Low,Mid
+420,Girl,16-20,University,Government,No,Yes,Low,Mid
+421,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+422,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+423,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+424,Girl,16-20,College,Government,No,Yes,Low,Mid
+425,Boy,1る5ら,School,Non Government,No,Yes,Low,Mid
+426,Girl,26-30,University,Government,No,No,Low,Poor
+427,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+428,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+429,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+430,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+431,Boy,21-25,University,Government,No,No,High,Poor
+432,Girl,26-30,University,Government,Yes,Yes,Low,Poor
+433,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+434,Girl,21-25,University,Government,No,Yes,Low,Mid
+435,Girl,21-25,University,Non Government,Yes,No,Low,Mid
+436,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+437,Girl,26-30,University,Government,No,Yes,Low,Mid
+438,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+439,Boy,11る15ら,School,Non Government,No,Yes,High,Poor
+440,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+441,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+442,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+443,Girl,26-30,University,Government,No,Yes,Low,Mid
+444,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+445,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+446,Girl,21-25,University,Government,No,Yes,Low,Mid
+447,Boy,21-25,College,Government,No,Yes,Low,Mid
+448,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+449,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+450,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+451,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+452,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich
+453,Boy,1る5ら,School,Government,No,No,Low,Mid
+454,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+455,Boy,21-25,University,Government,No,No,High,Poor
+456,Girl,21-25,University,Government,No,Yes,Low,Poor
+457,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+458,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+459,Boy,21-25,University,Government,No,No,Low,Poor
+460,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+461,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+462,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+463,Boy,21-25,University,Non Government,Yes,No,High,Mid
+464,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+465,Girl,11る15ら,School,Non Government,No,Yes,Low,Rich
+466,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+467,Boy,21-25,College,Government,No,No,High,Poor
+468,Boy,11る15ら,School,Government,No,No,Low,Poor
+469,Girl,16-20,College,Government,No,Yes,Low,Mid
+470,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+471,Boy,21-25,University,Non Government,Yes,No,High,Poor
+472,Boy,21-25,University,Government,No,Yes,Low,Mid
+473,Boy,11る15ら,School,Government,No,No,Low,Poor
+474,Boy,21-25,University,Non Government,No,No,Low,Mid
+475,Girl,16-20,College,Non Government,No,No,Low,Mid
+476,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+477,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+478,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+479,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+480,Boy,26-30,University,Non Government,No,Yes,Low,Mid
+481,Girl,16-20,College,Government,No,Yes,Low,Mid
+482,Boy,21-25,University,Government,No,No,High,Mid
+483,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+484,Boy,16-20,College,Government,No,Yes,High,Mid
+485,Boy,21-25,College,Government,Yes,Yes,Low,Mid
+486,Boy,16-20,School,Government,No,No,Low,Mid
+487,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+488,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+489,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+490,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+491,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+492,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+493,Boy,16-20,College,Government,No,Yes,Low,Poor
+494,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich
+495,Boy,21-25,University,Government,No,Yes,Low,Mid
+496,Girl,16-20,College,Non Government,No,No,Low,Mid
+497,Boy,11る15ら,School,Government,No,No,Low,Mid
+498,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+499,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+500,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+501,Girl,16-20,College,Non Government,No,No,Low,Mid
+502,Girl,16-20,College,Non Government,No,Yes,High,Mid
+503,Girl,16-20,College,Non Government,No,Yes,High,Mid
+504,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+505,Girl,16-20,College,Government,No,No,High,Poor
+506,Boy,16-20,College,Government,No,No,High,Poor
+507,Girl,6る10ら,School,Non Government,No,Yes,Low,Rich
+508,Boy,21-25,University,Government,No,No,Low,Mid
+509,Girl,16-20,College,Non Government,No,No,Low,Mid
+510,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+511,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+512,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+513,Girl,16-20,College,Non Government,No,Yes,High,Mid
+514,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+515,Girl,11る15ら,School,Government,No,No,High,Poor
+516,Girl,16-20,College,Non Government,No,No,Low,Mid
+517,Boy,21-25,University,Government,No,Yes,Low,Mid
+518,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+519,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+520,Boy,21-25,University,Government,No,No,Low,Mid
+521,Girl,16-20,College,Government,No,Yes,Low,Mid
+522,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+523,Boy,11る15ら,School,Government,No,No,Low,Mid
+524,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+525,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+526,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+527,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+528,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+529,Boy,16-20,College,Government,No,Yes,Low,Mid
+530,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+531,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+532,Girl,16-20,College,Government,No,No,Low,Mid
+533,Boy,21-25,University,Government,No,Yes,Low,Mid
+534,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+535,Boy,16-20,School,Government,No,Yes,Low,Mid
+536,Boy,16-20,University,Government,No,Yes,Low,Mid
+537,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+538,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+539,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+540,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+541,Boy,16-20,School,Government,No,Yes,Low,Mid
+542,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+543,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+544,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+545,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+546,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+547,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+548,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+549,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+550,Boy,26-30,University,Non Government,Yes,Yes,High,Poor
+551,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+552,Girl,16-20,College,Government,No,No,Low,Mid
+553,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+554,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+555,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+556,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+557,Girl,26-30,University,Government,No,No,Low,Poor
+558,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+559,Girl,21-25,College,Government,No,No,High,Mid
+560,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+561,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+562,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+563,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+564,Boy,21-25,University,Government,No,No,Low,Poor
+565,Boy,21-25,University,Government,Yes,No,High,Mid
+566,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+567,Girl,26-30,University,Government,No,Yes,Low,Mid
+568,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+569,Boy,16-20,College,Government,No,No,High,Poor
+570,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+571,Boy,26-30,University,Non Government,Yes,No,High,Mid
+572,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+573,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+574,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+575,Girl,16-20,College,Non Government,No,No,High,Mid
+576,Boy,21-25,University,Government,No,Yes,Low,Mid
+577,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+578,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+579,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+580,Boy,16-20,College,Government,No,Yes,Low,Mid
+581,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+582,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+583,Boy,16-20,College,Government,No,No,High,Poor
+584,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+585,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+586,Girl,21-25,University,Non Government,Yes,No,High,Poor
+587,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+588,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+589,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+590,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+591,Boy,16-20,School,Government,No,Yes,Low,Rich
+592,Girl,21-25,University,Government,No,Yes,Low,Mid
+593,Boy,26-30,University,Government,Yes,Yes,Low,Rich
+594,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+595,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+596,Boy,16-20,College,Government,Yes,No,Low,Rich
+597,Boy,26-30,University,Non Government,No,Yes,Low,Mid
+598,Boy,21-25,University,Government,No,No,High,Poor
+599,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+600,Girl,26-30,University,Government,No,Yes,Low,Mid
+601,Girl,1る5ら,School,Government,No,Yes,Low,Rich
+602,Girl,21-25,University,Government,No,Yes,Low,Poor
+603,Girl,21-25,University,Non Government,No,Yes,Low,Rich
+604,Girl,21-25,College,Government,No,No,High,Mid
+605,Boy,21-25,University,Government,Yes,No,High,Mid
+606,Boy,21-25,University,Government,No,No,High,Poor
+607,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+608,Girl,16-20,College,Government,No,No,Low,Mid
+609,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+610,Boy,1る5ら,School,Non Government,No,Yes,Low,Mid
+611,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+612,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+613,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+614,Boy,21-25,University,Government,No,No,High,Mid
+615,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+616,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+617,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+618,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+619,Girl,21-25,University,Government,No,Yes,Low,Poor
+620,Boy,21-25,University,Non Government,No,Yes,Low,Rich
+621,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+622,Girl,21-25,University,Non Government,Yes,No,Low,Mid
+623,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+624,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+625,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+626,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+627,Boy,16-20,College,Government,No,Yes,Low,Mid
+628,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+629,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+630,Boy,26-30,University,Government,No,Yes,Low,Mid
+631,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+632,Girl,16-20,College,Non Government,No,No,High,Mid
+633,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+634,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+635,Girl,21-25,University,Government,No,Yes,Low,Mid
+636,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+637,Girl,26-30,University,Government,No,Yes,Low,Mid
+638,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+639,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+640,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+641,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+642,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+643,Boy,16-20,College,Government,No,No,Low,Mid
+644,Girl,6る10ら,School,Non Government,No,Yes,Low,Rich
+645,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+646,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+647,Boy,26-30,University,Government,No,No,Low,Poor
+648,Boy,26-30,University,Government,Yes,No,Low,Poor
+649,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+650,Boy,16-20,School,Government,No,Yes,Low,Mid
+651,Girl,11る15ら,School,Government,No,No,Low,Mid
+652,Boy,26-30,University,Government,Yes,No,Low,Poor
+653,Boy,16-20,College,Government,Yes,No,Low,Mid
+654,Girl,21-25,University,Government,No,Yes,Low,Mid
+655,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+656,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+657,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+658,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+659,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+660,Girl,16-20,University,Government,No,Yes,Low,Mid
+661,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+662,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+663,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+664,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+665,Boy,21-25,University,Non Government,No,No,Low,Mid
+666,Girl,16-20,University,Non Government,Yes,No,Low,Mid
+667,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+668,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+669,Boy,26-30,University,Government,Yes,Yes,Low,Mid
+670,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+671,Girl,16-20,College,Non Government,No,No,Low,Mid
+672,Girl,21-25,University,Government,No,No,Low,Mid
+673,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+674,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+675,Girl,16-20,University,Government,No,Yes,Low,Mid
+676,Boy,21-25,University,Government,No,No,Low,Mid
+677,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+678,Boy,1る5ら,School,Non Government,No,Yes,Low,Poor
+679,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+680,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+681,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+682,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+683,Girl,21-25,University,Non Government,No,No,Low,Mid
+684,Boy,26-30,University,Non Government,No,Yes,Low,Mid
+685,Boy,11る15ら,School,Government,No,No,Low,Poor
+686,Girl,16-20,College,Non Government,No,No,Low,Mid
+687,Boy,11る15ら,School,Government,No,Yes,Low,Mid
+688,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+689,Boy,16-20,School,Government,No,Yes,Low,Mid
+690,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+691,Boy,26-30,University,Non Government,Yes,Yes,Low,Mid
+692,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+693,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+694,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+695,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+696,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+697,Girl,6る10ら,School,Government,No,No,Low,Mid
+698,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+699,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+700,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+701,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+702,Girl,16-20,College,Government,No,No,Low,Mid
+703,Girl,11る15ら,School,Government,No,No,Low,Mid
+704,Girl,1る5ら,School,Government,No,Yes,Low,Rich
+705,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+706,Girl,21-25,University,Non Government,Yes,No,High,Mid
+707,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+708,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+709,Boy,21-25,University,Non Government,No,Yes,High,Mid
+710,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+711,Boy,16-20,College,Government,No,Yes,Low,Mid
+712,Boy,21-25,College,Government,Yes,No,Low,Poor
+713,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+714,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+715,Girl,26-30,University,Government,No,Yes,Low,Mid
+716,Girl,11る15ら,School,Non Government,No,No,High,Mid
+717,Girl,11る15ら,School,Non Government,No,Yes,Low,Rich
+718,Girl,26-30,University,Government,No,Yes,Low,Mid
+719,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+720,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+721,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+722,Girl,16-20,College,Government,No,No,High,Mid
+723,Boy,21-25,University,Non Government,Yes,No,High,Poor
+724,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+725,Girl,16-20,College,Non Government,No,Yes,High,Mid
+726,Boy,16-20,School,Government,No,Yes,Low,Mid
+727,Girl,16-20,University,Non Government,Yes,No,Low,Mid
+728,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+729,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+730,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+731,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+732,Girl,16-20,University,Non Government,Yes,No,High,Poor
+733,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+734,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+735,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+736,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+737,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+738,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+739,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+740,Boy,26-30,University,Government,No,No,Low,Poor
+741,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+742,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Poor
+743,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+744,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+745,Girl,16-20,College,Government,No,No,High,Mid
+746,Boy,21-25,University,Government,No,Yes,Low,Mid
+747,Boy,16-20,College,Government,No,Yes,Low,Mid
+748,Boy,16-20,School,Government,No,Yes,Low,Mid
+749,Boy,21-25,University,Non Government,No,Yes,Low,Poor
+750,Boy,21-25,University,Non Government,Yes,No,High,Poor
+751,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+752,Boy,21-25,University,Government,No,No,Low,Mid
+753,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+754,Boy,21-25,University,Government,No,No,Low,Mid
+755,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+756,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+757,Boy,16-20,University,Government,No,Yes,Low,Mid
+758,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+759,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+760,Boy,21-25,College,Government,No,No,Low,Mid
+761,Boy,16-20,College,Government,No,No,Low,Mid
+762,Girl,21-25,University,Government,No,No,Low,Mid
+763,Girl,21-25,University,Non Government,Yes,Yes,Low,Rich
+764,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+765,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+766,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+767,Girl,16-20,School,Non Government,No,Yes,Low,Mid
+768,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+769,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+770,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+771,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+772,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+773,Girl,21-25,University,Non Government,Yes,No,High,Poor
+774,Girl,16-20,College,Non Government,No,Yes,High,Mid
+775,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+776,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+777,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+778,Girl,21-25,University,Government,No,Yes,Low,Mid
+779,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+780,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+781,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+782,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+783,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+784,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+785,Boy,21-25,University,Non Government,No,No,Low,Poor
+786,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+787,Girl,16-20,College,Non Government,No,Yes,High,Mid
+788,Girl,16-20,College,Government,No,No,High,Mid
+789,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+790,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+791,Girl,26-30,University,Government,No,No,Low,Poor
+792,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+793,Girl,11る15ら,School,Government,No,No,Low,Mid
+794,Girl,11る15ら,School,Non Government,No,No,High,Mid
+795,Boy,21-25,University,Government,No,No,High,Mid
+796,Girl,16-20,College,Non Government,No,No,Low,Mid
+797,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+798,Boy,21-25,University,Government,No,Yes,Low,Mid
+799,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+800,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+801,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+802,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+803,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+804,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+805,Boy,21-25,University,Government,No,Yes,Low,Mid
+806,Boy,6る10ら,School,Government,No,No,Low,Mid
+807,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+808,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+809,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+810,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+811,Boy,26-30,University,Government,Yes,Yes,Low,Rich
+812,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+813,Girl,16-20,College,Non Government,No,Yes,High,Mid
+814,Boy,21-25,University,Government,Yes,No,High,Mid
+815,Boy,11る15ら,School,Non Government,No,Yes,Low,Rich
+816,Girl,11る15ら,School,Government,No,No,Low,Mid
+817,Boy,16-20,School,Government,No,Yes,Low,Rich
+818,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+819,Girl,16-20,College,Government,No,No,Low,Mid
+820,Boy,11る15ら,School,Government,No,No,Low,Poor
+821,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+822,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+823,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+824,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+825,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+826,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+827,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+828,Girl,21-25,University,Non Government,Yes,No,High,Mid
+829,Boy,21-25,University,Non Government,Yes,No,Low,Mid
+830,Boy,16-20,School,Government,No,Yes,Low,Rich
+831,Boy,16-20,College,Government,No,Yes,High,Mid
+832,Boy,11る15ら,School,Non Government,No,No,Low,Mid
+833,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+834,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+835,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+836,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+837,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+838,Boy,16-20,College,Government,No,Yes,Low,Mid
+839,Boy,21-25,University,Government,No,No,Low,Mid
+840,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+841,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+842,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+843,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+844,Boy,16-20,University,Government,No,Yes,Low,Mid
+845,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+846,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+847,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+848,Girl,16-20,College,Non Government,No,No,Low,Mid
+849,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+850,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+851,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+852,Girl,16-20,College,Government,No,No,High,Mid
+853,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+854,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+855,Girl,16-20,School,Government,No,Yes,Low,Mid
+856,Girl,21-25,College,Government,No,No,High,Mid
+857,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+858,Girl,16-20,College,Government,No,No,High,Mid
+859,Boy,26-30,University,Government,No,Yes,Low,Mid
+860,Girl,16-20,College,Non Government,No,Yes,High,Mid
+861,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+862,Boy,21-25,University,Non Government,No,No,Low,Mid
+863,Girl,26-30,University,Government,No,No,Low,Poor
+864,Girl,6る10ら,School,Government,No,No,Low,Mid
+865,Girl,21-25,University,Non Government,No,No,Low,Mid
+866,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+867,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+868,Girl,16-20,University,Non Government,Yes,No,Low,Mid
+869,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+870,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+871,Boy,16-20,College,Government,No,Yes,Low,Mid
+872,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+873,Boy,16-20,School,Government,No,Yes,Low,Mid
+874,Girl,16-20,School,Non Government,No,Yes,Low,Poor
+875,Girl,16-20,College,Government,No,Yes,Low,Mid
+876,Girl,21-25,University,Non Government,Yes,Yes,Low,Mid
+877,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+878,Girl,16-20,College,Non Government,No,No,Low,Mid
+879,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+880,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+881,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+882,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+883,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+884,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+885,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+886,Boy,16-20,School,Government,No,Yes,Low,Rich
+887,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+888,Boy,21-25,University,Non Government,Yes,Yes,High,Mid
+889,Girl,16-20,University,Non Government,Yes,Yes,Low,Mid
+890,Boy,26-30,University,Non Government,Yes,No,High,Mid
+891,Boy,16-20,University,Government,No,Yes,Low,Mid
+892,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+893,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+894,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+895,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+896,Girl,21-25,University,Non Government,Yes,No,High,Mid
+897,Girl,21-25,University,Non Government,Yes,Yes,High,Mid
+898,Boy,16-20,School,Government,No,Yes,Low,Rich
+899,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+900,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+901,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+902,Boy,21-25,University,Non Government,No,No,Low,Mid
+903,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+904,Girl,16-20,College,Non Government,No,Yes,Low,Mid
+905,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+906,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+907,Girl,11る15ら,School,Government,No,Yes,Low,Mid
+908,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+909,Boy,6る10ら,School,Non Government,No,Yes,Low,Rich
+910,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+911,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+912,Boy,16-20,University,Government,No,Yes,Low,Mid
+913,Boy,21-25,College,Government,Yes,Yes,Low,Mid
+914,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+915,Girl,6る10ら,School,Non Government,No,Yes,Low,Poor
+916,Boy,21-25,College,Government,Yes,Yes,Low,Mid
+917,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+918,Boy,26-30,University,Government,Yes,No,Low,Poor
+919,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+920,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+921,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+922,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+923,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+924,Boy,16-20,College,Government,Yes,No,Low,Mid
+925,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+926,Girl,21-25,College,Government,Yes,Yes,Low,Mid
+927,Boy,21-25,University,Government,Yes,Yes,Low,Mid
+928,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+929,Boy,6る10ら,School,Non Government,No,Yes,Low,Mid
+930,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+931,Girl,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+932,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+933,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+934,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+935,Boy,6る10ら,School,Government,No,No,High,Mid
+936,Boy,16-20,College,Government,Yes,Yes,Low,Mid
+937,Boy,21-25,University,Non Government,No,Yes,Low,Rich
+938,Girl,11る15ら,School,Non Government,No,Yes,Low,Poor
+939,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+940,Girl,6る10ら,School,Non Government,No,Yes,Low,Rich
+941,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+942,Boy,21-25,University,Government,No,No,Low,Mid
+943,Girl,16-20,College,Non Government,No,No,Low,Mid
+944,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+945,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+946,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+947,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+948,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+949,Boy,16-20,College,Government,No,No,Low,Mid
+950,Boy,21-25,University,Non Government,No,No,Low,Mid
+951,Boy,21-25,University,Non Government,Yes,Yes,High,Poor
+952,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+953,Boy,16-20,College,Government,No,Yes,Low,Mid
+954,Boy,16-20,School,Government,No,Yes,Low,Mid
+955,Girl,6る10ら,School,Non Government,No,Yes,Low,Mid
+956,Boy,11る15ら,School,Government,No,No,Low,Mid
+957,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+958,Boy,21-25,University,Government,No,No,Low,Mid
+959,Boy,6る10ら,School,Non Government,No,Yes,Low,Mid
+960,Girl,21-25,University,Non Government,No,Yes,Low,Mid
+961,Girl,16-20,University,Government,No,Yes,Low,Mid
+962,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+963,Boy,21-25,University,Non Government,Yes,Yes,Low,Rich
+964,Girl,21-25,University,Non Government,No,No,Low,Mid
+965,Girl,16-20,College,Non Government,No,Yes,High,Mid
+966,Boy,16-20,College,Government,No,Yes,Low,Mid
+967,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+968,Boy,21-25,University,Non Government,Yes,Yes,Low,Mid
+969,Girl,1る5ら,School,Non Government,No,Yes,Low,Poor
+970,Boy,26-30,University,Government,Yes,No,Low,Poor
+971,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+972,Girl,11る15ら,School,Non Government,No,No,High,Mid
+973,Girl,26-30,University,Government,No,Yes,Low,Mid
+974,Boy,16-20,School,Government,No,Yes,Low,Rich
+975,Boy,21-25,University,Government,No,Yes,Low,Mid
+976,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+977,Boy,16-20,College,Non Government,No,Yes,Low,Mid
+978,Boy,6る10ら,School,Government,No,Yes,Low,Mid
+979,Boy,6る10ら,School,Government,No,No,High,Mid
+980,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+981,Girl,11る15ら,School,Non Government,No,Yes,Low,Mid
+982,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+983,Boy,21-25,University,Government,Yes,No,High,Mid
+984,Boy,16-20,College,Government,No,Yes,Low,Mid
+985,Girl,21-25,College,Government,No,No,High,Mid
+986,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+987,Boy,11る15ら,School,Non Government,Yes,Yes,Low,Mid
+988,Boy,11る15ら,School,Non Government,No,Yes,Low,Mid
+989,Boy,21-25,University,Government,No,Yes,Low,Mid
+990,Boy,26-30,University,Government,No,No,Low,Poor
+991,Girl,21-25,University,Non Government,No,Yes,High,Poor
+992,Boy,11る15ら,School,Non Government,No,Yes,High,Mid
+993,Girl,16-20,College,Government,No,No,Low,Mid
+994,Boy,16-20,University,Government,No,Yes,Low,Mid
+995,Boy,11る15ら,School,Non Government,No,Yes,Low,Poor
+996,Girl,16-20,School,Government,No,No,Low,Rich
+997,Boy,21-25,University,Non Government,No,Yes,Low,Mid
+998,Girl,1る5ら,School,Non Government,No,Yes,Low,Mid
+999,Girl,11る15ら,School,Government,No,Yes,Low,Rich
+1000,Boy,16-20,University,Government,No,No,Low,Poor
